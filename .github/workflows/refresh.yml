@@ -1,0 +1,33 @@
+name: Refresh odds data
+
+# Pulls free live odds from ESPN's public API every 30 minutes and commits
+# data/odds.json back to the repo. No API keys, no secrets.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch latest odds
+        run: python3 fetch_odds.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add data/odds.json
+          git diff --cached --quiet || git commit -m "Refresh odds data ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push

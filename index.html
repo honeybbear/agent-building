@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0f14">
+<title>Live Agent Building</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo" aria-hidden="true">▦</span>
+    <div>
+      <h1>Agent Building</h1>
+      <p>live research departments</p>
+    </div>
+  </div>
+  <div class="livebox">
+    <div id="livePill" class="pill">…</div>
+    <div id="updatedAt" class="updated"></div>
+  </div>
+</header>
+
+<div id="waiting" class="waiting" hidden>
+  <div class="waiting-card">
+    <div class="pulse-ring" aria-hidden="true"></div>
+    <h2>Waiting for first data refresh</h2>
+    <p>The odds pipeline hasn't delivered its first snapshot yet. The scheduled
+    workflow fetches free live odds every 30 minutes and commits
+    <code>data/odds.json</code>. Check back shortly — nothing here is simulated.</p>
+  </div>
+</div>
+
+<main id="app" hidden>
+  <section class="controls">
+    <div class="chips" id="leagueChips" role="tablist" aria-label="League filter"></div>
+    <div class="ctl-row">
+      <button id="pauseBtn" class="btn" aria-pressed="false">⏸ Pause flow</button>
+      <label class="speed">Speed
+        <input type="range" id="speed" min="0.25" max="3" step="0.25" value="1" aria-label="Animation speed">
+        <span id="speedVal">1×</span>
+      </label>
+    </div>
+  </section>
+
+  <section class="building-wrap" id="buildingWrap" aria-label="Agent building">
+    <canvas id="flow" aria-hidden="true"></canvas>
+    <div class="building" id="building"></div>
+    <p class="hint">Tap any agent to see what it's working on and where its work goes next.</p>
+  </section>
+
+  <section class="leads">
+    <div class="leads-head">
+      <h2>Prospects</h2>
+      <span id="prospectCount" class="count"></span>
+    </div>
+    <div id="leadList"></div>
+  </section>
+
+  <footer class="disclaimer">
+    Educational simulation — not financial advice. Gambling involves risk.
+    This app only reads public odds data and never places real wagers.
+  </footer>
+</main>
+
+<div id="sheetWrap" class="sheet-wrap" hidden>
+  <div class="sheet-backdrop" id="sheetBackdrop"></div>
+  <section id="sheet" class="sheet" role="dialog" aria-modal="true">
+    <button id="sheetClose" class="sheet-close" aria-label="Close">✕</button>
+    <div id="sheetBody"></div>
+  </section>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
