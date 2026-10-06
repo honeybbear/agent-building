@@ -27,7 +27,7 @@ const FLOORS = [
     ] },
 ];
 
-const state = { data: null, prospects: [], league: "all", paused: false, speed: 1 };
+const state = { data: null, paper: null, prospects: [], league: "all", paused: false, speed: 1 };
 
 /* ---------------- odds math ---------------- */
 function amProb(s) {
@@ -41,6 +41,16 @@ function pct(x, d = 1) { return x == null || !isFinite(x) ? "—" : (x * 100).to
 function signedPct(x, d = 1) {
   if (x == null || !isFinite(x)) return "—";
   return (x >= 0 ? "+" : "") + (x * 100).toFixed(d) + "%";
+}
+function fmtMoney(x) {
+  const v = Number(x);
+  if (!isFinite(v)) return "—";
+  return (v < 0 ? "-" : "") + "$" + Math.abs(v).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+}
+function signedMoney(x) {
+  const v = Number(x);
+  if (!isFinite(v)) return "—";
+  return (v >= 0 ? "+" : "-") + "$" + Math.abs(v).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
 function fmtTime(iso) {
   const d = new Date(iso);
@@ -344,6 +354,99 @@ function renderLeads() {
   }
 }
 
+/* ---------------- paper trading ---------------- */
+function drawEquity(p) {
+  const cv = $("#equityCurve");
+  if (!cv) return;
+  const dpr = Math.min(2, window.devicePixelRatio || 1);
+  const w = cv.clientWidth || (cv.parentElement && cv.parentElement.clientWidth) || 300;
+  const h = 160;
+  cv.width = Math.max(1, w * dpr);
+  cv.height = h * dpr;
+  cv.style.height = h + "px";
+  const c = cv.getContext("2d");
+  c.setTransform(dpr, 0, 0, dpr, 0, 0);
+  c.clearRect(0, 0, w, h);
+  const pts = p.equity || [];
+  if (pts.length < 2) {
+    c.fillStyle = "#8ba0ad";
+    c.font = "12px sans-serif";
+    c.fillText("Equity curve builds as positions settle.", 12, h / 2);
+    return;
+  }
+  const vals = pts.map(e => Number(e.bankroll));
+  let lo = Math.min(...vals, p.bankroll_start);
+  let hi = Math.max(...vals, p.bankroll_start);
+  if (hi - lo < 1) { hi += 0.5; lo -= 0.5; }
+  const X = i => 8 + (w - 16) * (i / (pts.length - 1));
+  const Y = v => h - 14 - (h - 30) * ((v - lo) / (hi - lo));
+  // starting-bankroll reference line
+  c.strokeStyle = "rgba(139,160,173,0.5)";
+  c.setLineDash([4, 4]);
+  c.beginPath();
+  c.moveTo(0, Y(p.bankroll_start));
+  c.lineTo(w, Y(p.bankroll_start));
+  c.stroke();
+  c.setLineDash([]);
+  const up = vals[vals.length - 1] >= p.bankroll_start;
+  const col = up ? "#3ddc97" : "#ff6b6b";
+  const grad = c.createLinearGradient(0, 0, 0, h);
+  grad.addColorStop(0, up ? "rgba(61,220,151,0.25)" : "rgba(255,107,107,0.25)");
+  grad.addColorStop(1, "rgba(0,0,0,0)");
+  c.beginPath();
+  pts.forEach((e, i) => { const x = X(i), y = Y(Number(e.bankroll)); i ? c.lineTo(x, y) : c.moveTo(x, y); });
+  c.strokeStyle = col;
+  c.lineWidth = 2;
+  c.stroke();
+  c.lineTo(X(pts.length - 1), h);
+  c.lineTo(X(0), h);
+  c.closePath();
+  c.fillStyle = grad;
+  c.fill();
+  c.fillStyle = "#8ba0ad";
+  c.font = "11px sans-serif";
+  c.fillText(fmtMoney(hi), 8, 14);
+  c.fillText(fmtMoney(lo), 8, h - 4);
+}
+
+function renderPaper() {
+  if (!$("#paperSection")) return;
+  const p = state.paper;
+  if (!p) {
+    $("#paperSummary").innerHTML = `<p class="empty" style="padding:12px">No paper trades yet — the engine opens a fake-money position whenever the Decision department issues a PASS. Fake money only; no real wagers, ever.</p>`;
+    return;
+  }
+  const pnl = Number(p.bankroll) - Number(p.bankroll_start);
+  const open = p.open || [];
+  const settled = p.settled || [];
+  const wins = settled.filter(s => Number(s.profit) > 0).length;
+  $("#paperSummary").innerHTML = `
+    <div class="paper-stats">
+      <div><span class="stat-label">Fake bankroll</span><strong>${fmtMoney(p.bankroll)}</strong></div>
+      <div><span class="stat-label">Fake P&amp;L</span><strong class="${pnl >= 0 ? "pnl-pos" : "pnl-neg"}">${signedMoney(pnl)}</strong></div>
+      <div><span class="stat-label">Open</span><strong>${open.length}</strong></div>
+      <div><span class="stat-label">Settled</span><strong>${settled.length} (${wins}W)</strong></div>
+    </div>
+    <p class="paper-updated">Updated ${ago(p.updated_at)} · started at ${fmtMoney(p.bankroll_start)} fake dollars</p>`;
+  drawEquity(p);
+  $("#openBody").innerHTML = open.map(o => `
+    <tr><td>${o.league_label || ""} · ${o.matchup}</td>
+    <td>${o.side_abbr || o.side} ML</td>
+    <td class="num">${o.odds_american}</td>
+    <td class="num">${fmtMoney(o.stake)}</td>
+    <td>${o.book}</td></tr>`).join("")
+    || `<tr><td colspan="5" class="empty">No open positions.</td></tr>`;
+  $("#openCount").textContent = open.length ? `(${open.length})` : "";
+  $("#settledBody").innerHTML = [...settled].reverse().map(s => `
+    <tr><td>${s.league_label || ""} · ${s.matchup}</td>
+    <td>${s.side_abbr || s.side} ML</td>
+    <td class="num">${s.odds_american}</td>
+    <td class="num ${Number(s.profit) >= 0 ? "pnl-pos" : "pnl-neg"}">${signedMoney(s.profit)}</td>
+    <td>${ago(s.graded_at)}</td></tr>`).join("")
+    || `<tr><td colspan="5" class="empty">Nothing settled yet.</td></tr>`;
+  $("#settledCount").textContent = settled.length ? `(${settled.length})` : "";
+}
+
 /* ---------------- sheets ---------------- */
 function openSheet(html) {
   $("#sheetBody").innerHTML = html;
@@ -485,6 +588,7 @@ function refresh() {
   renderChips();
   renderBuilding(c);
   renderLeads();
+  renderPaper();
   sizeCanvas();
 }
 
@@ -498,6 +602,12 @@ async function boot() {
     $("#livePill").innerHTML = `<span class="dot"></span>WAITING`;
     return;
   }
+  // Paper-trading ledger is optional: the engine writes it on its own
+  // schedule. Absence just means no paper trades yet — honest empty state.
+  try {
+    const pr = await fetch("data/paper.json", { cache: "no-store" });
+    if (pr.ok) state.paper = await pr.json();
+  } catch (e) { /* not fatal */ }
   $("#app").hidden = false;
   const ageH = (Date.now() - new Date(state.data.fetched_at).getTime()) / 3600000;
   const pill = $("#livePill");

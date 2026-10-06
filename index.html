@@ -58,6 +58,40 @@
     <div id="leadList"></div>
   </section>
 
+  <section class="paper" id="paperSection" aria-label="Paper trading">
+    <div class="leads-head">
+      <h2>Paper trading</h2>
+      <span class="count">fake money · real live data</span>
+    </div>
+    <div class="fake-banner">
+      <strong>FAKE MONEY — simulation.</strong>
+      Paper trades only. This app never places real wagers and never touches
+      real money. Simulated past performance does not predict real results.
+    </div>
+    <div id="paperSummary" class="kv"></div>
+    <h3 class="paper-sub">Bankroll equity (fake $)</h3>
+    <canvas id="equityCurve" aria-label="Fake bankroll equity curve"></canvas>
+    <h3 class="paper-sub">Open positions <span id="openCount" class="count"></span></h3>
+    <div class="table-wrap">
+      <table class="odds">
+        <thead><tr><th>Matchup</th><th>Side</th><th>Odds</th><th class="num">Stake</th><th>Book</th></tr></thead>
+        <tbody id="openBody"></tbody>
+      </table>
+    </div>
+    <h3 class="paper-sub">Settled history <span id="settledCount" class="count"></span></h3>
+    <div class="table-wrap">
+      <table class="odds">
+        <thead><tr><th>Matchup</th><th>Side</th><th>Odds</th><th class="num">P&amp;L</th><th>Graded</th></tr></thead>
+        <tbody id="settledBody"></tbody>
+      </table>
+    </div>
+    <p class="paper-note">A paper position opens only when the Decision department
+    issues a PASS under the same rules as the building above: 2+ books quoting,
+    fresh data, at least 3% edge, half-Kelly stake capped at 2% of the fake
+    bankroll. Positions are graded against final ESPN scores. The fake bankroll
+    starts at $1,000 — no real money is ever involved.</p>
+  </section>
+
   <footer class="disclaimer">
     Educational simulation — not financial advice. Gambling involves risk.
     This app only reads public odds data and never places real wagers.

@@ -223,4 +223,34 @@ table.odds td.num { font-variant-numeric: tabular-nums; font-weight: 600; }
   font-size: 12px; line-height: 1.6; color: var(--muted);
   border: 1px dashed var(--line); border-radius: 14px; text-align: center;
 }
+
+/* ---------- paper trading ---------- */
+.paper { padding: 18px 16px 0; }
+.fake-banner {
+  background: #2a2110; border: 1px solid #4a3d1d; color: var(--warn);
+  border-radius: var(--radius); padding: 12px 14px;
+  font-size: 13px; line-height: 1.55; margin-bottom: 12px;
+}
+.fake-banner strong { letter-spacing: 0.5px; }
+.paper-sub { font-size: 14px; margin: 16px 0 8px; }
+#equityCurve {
+  width: 100%; display: block;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 14px;
+}
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line); border-radius: 14px; background: var(--panel);
+}
+.table-wrap .empty { padding: 16px; }
+.paper-stats { display: flex; gap: 16px; flex-wrap: wrap; }
+.paper-stats > div { display: flex; flex-direction: column; gap: 3px; }
+.stat-label {
+  font-size: 11px; color: var(--muted);
+  letter-spacing: 0.6px; text-transform: uppercase;
+}
+.paper-stats strong { font-size: 17px; }
+.paper-updated { font-size: 11px; color: var(--muted); margin: 10px 0 0; }
+.paper-note { font-size: 12px; color: var(--muted); line-height: 1.6; margin: 14px 0 0; }
+.pnl-pos { color: var(--accent); }
+.pnl-neg { color: var(--danger); }
 .empty { text-align: center; color: var(--muted); padding: 26px 10px; font-size: 14px; line-height: 1.6; }
