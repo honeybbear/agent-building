@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T15:32:27Z",
+  "fetched_at": "2026-10-06T15:37:00Z",
   "source": "ESPN public API (site.api.espn.com + sports.core.api.espn.com) - free, no key",
   "leagues": {
     "nfl": {
@@ -1973,8 +1973,8 @@
               },
               "spread": -1.5,
               "total": 2.5,
-              "over_odds": "-140",
-              "under_odds": "+110"
+              "over_odds": "-135",
+              "under_odds": "+105"
             },
             {
               "provider": "Bet 365",
@@ -2006,9 +2006,9 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "BRE +155",
+              "details": "BRE +150",
               "home": {
-                "ml": "+160",
+                "ml": "+170",
                 "spread_odds": "-205",
                 "open": {
                   "ml": "+145",
@@ -2016,13 +2016,13 @@
                   "point_spread": "-0.5"
                 },
                 "current": {
-                  "ml": "+160",
+                  "ml": "+170",
                   "spread_odds": "-205",
                   "point_spread": "+0.5"
                 }
               },
               "away": {
-                "ml": "+155",
+                "ml": "+150",
                 "spread_odds": "+135",
                 "open": {
                   "ml": "+165",
@@ -2030,7 +2030,7 @@
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+155",
+                  "ml": "+150",
                   "spread_odds": "+135",
                   "point_spread": "-0.5"
                 }
@@ -2038,7 +2038,7 @@
               "spread": 0.5,
               "total": 2.5,
               "over_odds": "-145",
-              "under_odds": "+110"
+              "under_odds": "+115"
             },
             {
               "provider": "Bet 365",
@@ -2200,16 +2200,16 @@
               "provider": "DraftKings",
               "details": "BHA +135",
               "home": {
-                "ml": "+185",
-                "spread_odds": "-180",
+                "ml": "+190",
+                "spread_odds": "-175",
                 "open": {
                   "ml": "+175",
                   "spread_odds": "-195",
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+185",
-                  "spread_odds": "-180",
+                  "ml": "+190",
+                  "spread_odds": "-175",
                   "point_spread": "+0.5"
                 }
               },
@@ -2262,39 +2262,39 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "MAN -145",
+              "details": "MAN -140",
               "home": {
-                "ml": "-145",
-                "spread_odds": "-160",
+                "ml": "-140",
+                "spread_odds": "-155",
                 "open": {
                   "ml": "-145",
                   "spread_odds": "-160",
                   "point_spread": "-0.5"
                 },
                 "current": {
-                  "ml": "-145",
-                  "spread_odds": "-160",
+                  "ml": "-140",
+                  "spread_odds": "-155",
                   "point_spread": "-0.5"
                 }
               },
               "away": {
-                "ml": "+340",
-                "spread_odds": "+110",
+                "ml": "+320",
+                "spread_odds": "+105",
                 "open": {
                   "ml": "+330",
                   "spread_odds": "+105",
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+340",
-                  "spread_odds": "+110",
+                  "ml": "+320",
+                  "spread_odds": "+105",
                   "point_spread": "+0.5"
                 }
               },
               "spread": -0.5,
               "total": 3.5,
               "over_odds": "+120",
-              "under_odds": "-160"
+              "under_odds": "-155"
             },
             {
               "provider": "Bet 365",
