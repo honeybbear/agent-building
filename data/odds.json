@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T11:26:22Z",
+  "fetched_at": "2026-10-09T17:30:34Z",
   "source": "ESPN public API (site.api.espn.com + sports.core.api.espn.com) - free, no key",
   "leagues": {
     "nfl": {
@@ -25,7 +25,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "DAL -8.5",
               "home": {
                 "ml": "-500",
@@ -91,10 +91,10 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "JAX -7.5",
               "home": {
-                "ml": "-380",
+                "ml": "-395",
                 "spread_odds": "-108",
                 "open": {
                   "ml": "+110",
@@ -102,13 +102,13 @@
                   "point_spread": "+2.5"
                 },
                 "current": {
-                  "ml": "-380",
+                  "ml": "-395",
                   "spread_odds": "-108",
                   "point_spread": "-7.5"
                 }
               },
               "away": {
-                "ml": "+300",
+                "ml": "+310",
                 "spread_odds": "-112",
                 "open": {
                   "ml": "-130",
@@ -116,7 +116,7 @@
                   "point_spread": "-2.5"
                 },
                 "current": {
-                  "ml": "+300",
+                  "ml": "+310",
                   "spread_odds": "-112",
                   "point_spread": "+7.5"
                 }
@@ -147,7 +147,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "CHI -1.5",
               "home": {
                 "ml": "+100",
@@ -203,7 +203,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "HOU -7.5",
               "home": {
                 "ml": "+330",
@@ -259,40 +259,40 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
-              "details": "CIN -6.5",
+              "provider": "Draft Kings",
+              "details": "CIN -7",
               "home": {
-                "ml": "+260",
-                "spread_odds": "+100",
+                "ml": "+275",
+                "spread_odds": "-115",
                 "open": {
                   "ml": "+205",
                   "spread_odds": "-110",
                   "point_spread": "+5.5"
                 },
                 "current": {
-                  "ml": "+260",
-                  "spread_odds": "+100",
-                  "point_spread": "+6.5"
+                  "ml": "+275",
+                  "spread_odds": "-115",
+                  "point_spread": "+7"
                 }
               },
               "away": {
-                "ml": "-325",
-                "spread_odds": "-120",
+                "ml": "-345",
+                "spread_odds": "-105",
                 "open": {
                   "ml": "-250",
                   "spread_odds": "-110",
                   "point_spread": "-5.5"
                 },
                 "current": {
-                  "ml": "-325",
-                  "spread_odds": "-120",
-                  "point_spread": "-6.5"
+                  "ml": "-345",
+                  "spread_odds": "-105",
+                  "point_spread": "-7"
                 }
               },
-              "spread": 6.5,
-              "total": 42.5,
-              "over_odds": "-115",
-              "under_odds": "-105"
+              "spread": 7.0,
+              "total": 43.5,
+              "over_odds": "-108",
+              "under_odds": "-112"
             }
           ]
         },
@@ -315,7 +315,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "NE -3.5",
               "home": {
                 "ml": "-198",
@@ -371,7 +371,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "MIN -2.5",
               "home": {
                 "ml": "+120",
@@ -427,7 +427,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "NYJ -2.5",
               "home": {
                 "ml": "-135",
@@ -483,7 +483,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "PIT -2.5",
               "home": {
                 "ml": "-148",
@@ -514,9 +514,9 @@
                 }
               },
               "spread": -2.5,
-              "total": 44.5,
-              "over_odds": "-102",
-              "under_odds": "-118"
+              "total": 43.5,
+              "over_odds": "-115",
+              "under_odds": "-105"
             }
           ]
         },
@@ -539,11 +539,11 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
-              "details": "WSH -3.5",
+              "provider": "Draft Kings",
+              "details": "WSH -4.5",
               "home": {
                 "ml": "-192",
-                "spread_odds": "-118",
+                "spread_odds": "-105",
                 "open": {
                   "ml": "-135",
                   "spread_odds": "-110",
@@ -551,13 +551,13 @@
                 },
                 "current": {
                   "ml": "-192",
-                  "spread_odds": "-118",
-                  "point_spread": "-3.5"
+                  "spread_odds": "-105",
+                  "point_spread": "-4.5"
                 }
               },
               "away": {
                 "ml": "+160",
-                "spread_odds": "-102",
+                "spread_odds": "-115",
                 "open": {
                   "ml": "+114",
                   "spread_odds": "-110",
@@ -565,14 +565,14 @@
                 },
                 "current": {
                   "ml": "+160",
-                  "spread_odds": "-102",
-                  "point_spread": "+3.5"
+                  "spread_odds": "-115",
+                  "point_spread": "+4.5"
                 }
               },
-              "spread": -3.5,
-              "total": 42.5,
-              "over_odds": "-105",
-              "under_odds": "-115"
+              "spread": -4.5,
+              "total": 41.5,
+              "over_odds": "-115",
+              "under_odds": "-105"
             }
           ]
         },
@@ -595,10 +595,10 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "DEN -3.5",
               "home": {
-                "ml": "+145",
+                "ml": "+150",
                 "spread_odds": "-118",
                 "open": {
                   "ml": "-142",
@@ -606,13 +606,13 @@
                   "point_spread": "-2.5"
                 },
                 "current": {
-                  "ml": "+145",
+                  "ml": "+150",
                   "spread_odds": "-118",
                   "point_spread": "+3.5"
                 }
               },
               "away": {
-                "ml": "-175",
+                "ml": "-180",
                 "spread_odds": "-102",
                 "open": {
                   "ml": "+120",
@@ -620,7 +620,7 @@
                   "point_spread": "+2.5"
                 },
                 "current": {
-                  "ml": "-175",
+                  "ml": "-180",
                   "spread_odds": "-102",
                   "point_spread": "-3.5"
                 }
@@ -651,10 +651,10 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "DET -5.5",
               "home": {
-                "ml": "+215",
+                "ml": "+210",
                 "spread_odds": "-110",
                 "open": {
                   "ml": "+310",
@@ -662,13 +662,13 @@
                   "point_spread": "+8.5"
                 },
                 "current": {
-                  "ml": "+215",
+                  "ml": "+210",
                   "spread_odds": "-110",
                   "point_spread": "+5.5"
                 }
               },
               "away": {
-                "ml": "-265",
+                "ml": "-258",
                 "spread_odds": "-110",
                 "open": {
                   "ml": "-395",
@@ -676,7 +676,7 @@
                   "point_spread": "-8.5"
                 },
                 "current": {
-                  "ml": "-265",
+                  "ml": "-258",
                   "spread_odds": "-110",
                   "point_spread": "-5.5"
                 }
@@ -707,7 +707,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "SEA -3",
               "home": {
                 "ml": "-162",
@@ -763,33 +763,33 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "ATL -3",
               "home": {
-                "ml": "-170",
-                "spread_odds": "-118",
+                "ml": "-175",
+                "spread_odds": "-120",
                 "open": {
                   "ml": "+180",
                   "spread_odds": "-110",
                   "point_spread": "+4.5"
                 },
                 "current": {
-                  "ml": "-170",
-                  "spread_odds": "-118",
+                  "ml": "-175",
+                  "spread_odds": "-120",
                   "point_spread": "-3"
                 }
               },
               "away": {
-                "ml": "+142",
-                "spread_odds": "-102",
+                "ml": "+145",
+                "spread_odds": "+100",
                 "open": {
                   "ml": "-218",
                   "spread_odds": "-110",
                   "point_spread": "-4.5"
                 },
                 "current": {
-                  "ml": "+142",
-                  "spread_odds": "-102",
+                  "ml": "+145",
+                  "spread_odds": "+100",
                   "point_spread": "+3"
                 }
               },
@@ -819,7 +819,7 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
+              "provider": "Draft Kings",
               "details": "LAR -3",
               "home": {
                 "ml": "-175",
@@ -869,7 +869,7 @@
           "name": "Houston Rockets at Dallas Mavericks",
           "short_name": "HOU VS DAL",
           "date": "2026-10-09T12:00Z",
-          "status": "upcoming",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "DAL",
@@ -881,10 +881,10 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
-              "details": "HOU -2.5",
+              "provider": "Draft Kings",
+              "details": "HOU -3.5",
               "home": {
-                "ml": "+120",
+                "ml": "+124",
                 "spread_odds": "-115",
                 "open": {
                   "ml": "+110",
@@ -892,13 +892,18 @@
                   "point_spread": "+2.5"
                 },
                 "current": {
-                  "ml": "+120",
+                  "ml": "+124",
                   "spread_odds": "-115",
-                  "point_spread": "+2.5"
+                  "point_spread": "+3.5"
+                },
+                "close": {
+                  "ml": "+124",
+                  "spread_odds": "-115",
+                  "point_spread": "+3.5"
                 }
               },
               "away": {
-                "ml": "-142",
+                "ml": "-148",
                 "spread_odds": "-105",
                 "open": {
                   "ml": "-130",
@@ -906,13 +911,18 @@
                   "point_spread": "-2.5"
                 },
                 "current": {
-                  "ml": "-142",
+                  "ml": "-148",
                   "spread_odds": "-105",
-                  "point_spread": "-2.5"
+                  "point_spread": "-3.5"
+                },
+                "close": {
+                  "ml": "-148",
+                  "spread_odds": "-105",
+                  "point_spread": "-3.5"
                 }
               },
-              "spread": 2.5,
-              "total": 229.5,
+              "spread": 3.5,
+              "total": 231.5,
               "over_odds": "-112",
               "under_odds": "-108"
             }
@@ -937,37 +947,37 @@
           },
           "books": [
             {
-              "provider": "DraftKings",
-              "details": "CHI -3.5",
+              "provider": "Draft Kings",
+              "details": "CHI -2.5",
               "home": {
-                "ml": "-148",
-                "spread_odds": "-105",
+                "ml": "-142",
+                "spread_odds": "-115",
                 "open": {
                   "ml": "-155",
                   "spread_odds": "-110",
                   "point_spread": "-3.5"
                 },
                 "current": {
-                  "ml": "-148",
-                  "spread_odds": "-105",
-                  "point_spread": "-3.5"
+                  "ml": "-142",
+                  "spread_odds": "-115",
+                  "point_spread": "-2.5"
                 }
               },
               "away": {
-                "ml": "+124",
-                "spread_odds": "-115",
+                "ml": "+120",
+                "spread_odds": "-105",
                 "open": {
                   "ml": "+130",
                   "spread_odds": "-110",
                   "point_spread": "+3.5"
                 },
                 "current": {
-                  "ml": "+124",
-                  "spread_odds": "-115",
-                  "point_spread": "+3.5"
+                  "ml": "+120",
+                  "spread_odds": "-105",
+                  "point_spread": "+2.5"
                 }
               },
-              "spread": -3.5,
+              "spread": -2.5,
               "total": 239.5,
               "over_odds": "-110",
               "under_odds": "-110"
@@ -981,66 +991,56 @@
       "label": "MLB",
       "events": [
         {
-          "id": "401907993",
+          "id": "401907994",
           "league": "mlb",
           "league_label": "MLB",
-          "name": "Cleveland Guardians at Chicago White Sox",
-          "short_name": "CLE @ CHW",
-          "date": "2026-10-09T00:00Z",
-          "status": "final",
+          "name": "Chicago White Sox at Cleveland Guardians",
+          "short_name": "CHW @ CLE",
+          "date": "2026-10-11T00:00Z",
+          "status": "upcoming",
           "three_way": false,
           "home": {
-            "abbr": "CHW",
-            "name": "Chicago White Sox"
-          },
-          "away": {
             "abbr": "CLE",
             "name": "Cleveland Guardians"
+          },
+          "away": {
+            "abbr": "CHW",
+            "name": "Chicago White Sox"
           },
           "books": [
             {
               "provider": "DraftKings",
-              "details": "CLE -118",
+              "details": "CLE -137",
               "home": {
-                "ml": "-102",
+                "ml": "-137",
                 "open": {
-                  "ml": "-107",
-                  "spread_odds": "-222",
-                  "point_spread": "+1.5"
+                  "ml": "-151",
+                  "spread_odds": "+145",
+                  "point_spread": "-1.5"
                 },
                 "current": {
-                  "ml": "-102",
-                  "spread_odds": "-184",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "-102",
-                  "spread_odds": "-184",
-                  "point_spread": "+1.5"
+                  "ml": "-137",
+                  "spread_odds": "+159",
+                  "point_spread": "-1.5"
                 }
               },
               "away": {
-                "ml": "-118",
+                "ml": "+113",
                 "open": {
-                  "ml": "-113",
-                  "spread_odds": "+181",
-                  "point_spread": "-1.5"
+                  "ml": "+125",
+                  "spread_odds": "-176",
+                  "point_spread": "+1.5"
                 },
                 "current": {
-                  "ml": "-118",
-                  "spread_odds": "+151",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-118",
-                  "spread_odds": "+151",
-                  "point_spread": "-1.5"
+                  "ml": "+113",
+                  "spread_odds": "-193",
+                  "point_spread": "+1.5"
                 }
               },
-              "spread": 1.5,
+              "spread": -1.5,
               "total": 7.0,
-              "over_odds": "-108",
-              "under_odds": "-112"
+              "over_odds": "-120",
+              "under_odds": "+100"
             }
           ]
         }
@@ -1051,304 +1051,35 @@
       "label": "NHL",
       "events": [
         {
-          "id": "401891820",
+          "id": "401892465",
           "league": "nhl",
           "league_label": "NHL",
-          "name": "Philadelphia Flyers at Ottawa Senators",
-          "short_name": "PHI @ OTT",
-          "date": "2026-10-08T23:00Z",
-          "status": "final",
+          "name": "Seattle Kraken at Detroit Red Wings",
+          "short_name": "SEA @ DET",
+          "date": "2026-10-09T23:00Z",
+          "status": "upcoming",
           "three_way": false,
           "home": {
-            "abbr": "OTT",
-            "name": "Ottawa Senators"
+            "abbr": "DET",
+            "name": "Detroit Red Wings"
           },
           "away": {
-            "abbr": "PHI",
-            "name": "Philadelphia Flyers"
+            "abbr": "SEA",
+            "name": "Seattle Kraken"
           },
           "books": [
             {
-              "provider": "DraftKings",
-              "details": "OTT -180",
-              "home": {
-                "ml": "-180",
-                "spread_odds": "+154",
-                "open": {
-                  "ml": "-125",
-                  "spread_odds": "+190",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "-180",
-                  "spread_odds": "+154",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-180",
-                  "spread_odds": "+154",
-                  "point_spread": "-1.5"
-                }
-              },
-              "away": {
-                "ml": "+150",
-                "spread_odds": "-185",
-                "open": {
-                  "ml": "+105",
-                  "spread_odds": "-230",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "+150",
-                  "spread_odds": "-185",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "+150",
-                  "spread_odds": "-185",
-                  "point_spread": "+1.5"
-                }
-              },
-              "spread": -1.5,
-              "total": 5.5,
-              "over_odds": "-115",
-              "under_odds": "-105"
-            }
-          ]
-        },
-        {
-          "id": "401892457",
-          "league": "nhl",
-          "league_label": "NHL",
-          "name": "Utah Mammoth at Boston Bruins",
-          "short_name": "UTA @ BOS",
-          "date": "2026-10-08T23:00Z",
-          "status": "final",
-          "three_way": false,
-          "home": {
-            "abbr": "BOS",
-            "name": "Boston Bruins"
-          },
-          "away": {
-            "abbr": "UTA",
-            "name": "Utah Mammoth"
-          },
-          "books": [
-            {
-              "provider": "DraftKings",
-              "details": "UTAH -142",
-              "home": {
-                "ml": "+120",
-                "spread_odds": "-230",
-                "open": {
-                  "ml": "-115",
-                  "spread_odds": "+205",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "+120",
-                  "spread_odds": "-230",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "+120",
-                  "spread_odds": "-230",
-                  "point_spread": "+1.5"
-                }
-              },
-              "away": {
-                "ml": "-142",
-                "spread_odds": "+190",
-                "open": {
-                  "ml": "-105",
-                  "spread_odds": "-250",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "-142",
-                  "spread_odds": "+190",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-142",
-                  "spread_odds": "+190",
-                  "point_spread": "-1.5"
-                }
-              },
-              "spread": 1.5,
-              "total": 6.5,
-              "over_odds": "+114",
-              "under_odds": "-135"
-            }
-          ]
-        },
-        {
-          "id": "401892458",
-          "league": "nhl",
-          "league_label": "NHL",
-          "name": "Dallas Stars at Buffalo Sabres",
-          "short_name": "DAL @ BUF",
-          "date": "2026-10-08T23:00Z",
-          "status": "final",
-          "three_way": false,
-          "home": {
-            "abbr": "BUF",
-            "name": "Buffalo Sabres"
-          },
-          "away": {
-            "abbr": "DAL",
-            "name": "Dallas Stars"
-          },
-          "books": [
-            {
-              "provider": "DraftKings",
-              "details": "DAL -122",
-              "home": {
-                "ml": "+102",
-                "spread_odds": "-245",
-                "open": {
-                  "ml": "-115",
-                  "spread_odds": "+205",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "+102",
-                  "spread_odds": "-245",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "+102",
-                  "spread_odds": "-245",
-                  "point_spread": "+1.5"
-                }
-              },
-              "away": {
-                "ml": "-122",
-                "spread_odds": "+200",
-                "open": {
-                  "ml": "-105",
-                  "spread_odds": "-250",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "-122",
-                  "spread_odds": "+200",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-122",
-                  "spread_odds": "+200",
-                  "point_spread": "-1.5"
-                }
-              },
-              "spread": 1.5,
-              "total": 6.5,
-              "over_odds": "+110",
-              "under_odds": "-130"
-            }
-          ]
-        },
-        {
-          "id": "401892459",
-          "league": "nhl",
-          "league_label": "NHL",
-          "name": "Nashville Predators at Montreal Canadiens",
-          "short_name": "NSH @ MTL",
-          "date": "2026-10-08T23:00Z",
-          "status": "final",
-          "three_way": false,
-          "home": {
-            "abbr": "MTL",
-            "name": "Montreal Canadiens"
-          },
-          "away": {
-            "abbr": "NSH",
-            "name": "Nashville Predators"
-          },
-          "books": [
-            {
-              "provider": "DraftKings",
-              "details": "MTL -166",
-              "home": {
-                "ml": "-166",
-                "spread_odds": "+150",
-                "open": {
-                  "ml": "-198",
-                  "spread_odds": "+124",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "-166",
-                  "spread_odds": "+150",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-166",
-                  "spread_odds": "+150",
-                  "point_spread": "-1.5"
-                }
-              },
-              "away": {
-                "ml": "+140",
-                "spread_odds": "-180",
-                "open": {
-                  "ml": "+164",
-                  "spread_odds": "-148",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "+140",
-                  "spread_odds": "-180",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "+140",
-                  "spread_odds": "-180",
-                  "point_spread": "+1.5"
-                }
-              },
-              "spread": -1.5,
-              "total": 6.5,
-              "over_odds": "+105",
-              "under_odds": "-125"
-            }
-          ]
-        },
-        {
-          "id": "401892460",
-          "league": "nhl",
-          "league_label": "NHL",
-          "name": "Minnesota Wild at Tampa Bay Lightning",
-          "short_name": "MIN @ TB",
-          "date": "2026-10-08T23:00Z",
-          "status": "final",
-          "three_way": false,
-          "home": {
-            "abbr": "TB",
-            "name": "Tampa Bay Lightning"
-          },
-          "away": {
-            "abbr": "MIN",
-            "name": "Minnesota Wild"
-          },
-          "books": [
-            {
-              "provider": "DraftKings",
-              "details": "TB -142",
+              "provider": "Draft Kings",
+              "details": "DET -142",
               "home": {
                 "ml": "-142",
                 "spread_odds": "+170",
                 "open": {
-                  "ml": "-148",
-                  "spread_odds": "+170",
-                  "point_spread": "-1.5"
-                },
-                "current": {
                   "ml": "-142",
                   "spread_odds": "+170",
                   "point_spread": "-1.5"
                 },
-                "close": {
+                "current": {
                   "ml": "-142",
                   "spread_odds": "+170",
                   "point_spread": "-1.5"
@@ -1358,16 +1089,11 @@
                 "ml": "+120",
                 "spread_odds": "-205",
                 "open": {
-                  "ml": "+124",
-                  "spread_odds": "-205",
-                  "point_spread": "+1.5"
-                },
-                "current": {
                   "ml": "+120",
                   "spread_odds": "-205",
                   "point_spread": "+1.5"
                 },
-                "close": {
+                "current": {
                   "ml": "+120",
                   "spread_odds": "-205",
                   "point_spread": "+1.5"
@@ -1381,61 +1107,163 @@
           ]
         },
         {
-          "id": "401892461",
+          "id": "401892466",
           "league": "nhl",
           "league_label": "NHL",
-          "name": "Vancouver Canucks at Carolina Hurricanes",
-          "short_name": "VAN @ CAR",
-          "date": "2026-10-08T23:00Z",
-          "status": "final",
+          "name": "New York Rangers at Washington Capitals",
+          "short_name": "NYR @ WSH",
+          "date": "2026-10-09T23:00Z",
+          "status": "upcoming",
           "three_way": false,
           "home": {
-            "abbr": "CAR",
-            "name": "Carolina Hurricanes"
+            "abbr": "WSH",
+            "name": "Washington Capitals"
           },
           "away": {
-            "abbr": "VAN",
-            "name": "Vancouver Canucks"
+            "abbr": "NYR",
+            "name": "New York Rangers"
           },
           "books": [
             {
-              "provider": "DraftKings",
-              "details": "CAR -380",
+              "provider": "Draft Kings",
+              "details": "WSH -148",
               "home": {
-                "ml": "-380",
-                "spread_odds": "-148",
+                "ml": "-148",
+                "spread_odds": "+180",
                 "open": {
-                  "ml": "-325",
-                  "spread_odds": "-125",
+                  "ml": "-142",
+                  "spread_odds": "+180",
                   "point_spread": "-1.5"
                 },
                 "current": {
-                  "ml": "-380",
-                  "spread_odds": "-148",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-380",
-                  "spread_odds": "-148",
+                  "ml": "-148",
+                  "spread_odds": "+180",
                   "point_spread": "-1.5"
                 }
               },
               "away": {
-                "ml": "+300",
-                "spread_odds": "+124",
+                "ml": "+124",
+                "spread_odds": "-218",
                 "open": {
-                  "ml": "+260",
-                  "spread_odds": "+105",
+                  "ml": "+120",
+                  "spread_odds": "-218",
                   "point_spread": "+1.5"
                 },
                 "current": {
-                  "ml": "+300",
-                  "spread_odds": "+124",
+                  "ml": "+124",
+                  "spread_odds": "-218",
+                  "point_spread": "+1.5"
+                }
+              },
+              "spread": -1.5,
+              "total": 5.5,
+              "over_odds": "-125",
+              "under_odds": "+105"
+            }
+          ]
+        },
+        {
+          "id": "401892467",
+          "league": "nhl",
+          "league_label": "NHL",
+          "name": "Pittsburgh Penguins at Columbus Blue Jackets",
+          "short_name": "PIT @ CBJ",
+          "date": "2026-10-09T23:00Z",
+          "status": "upcoming",
+          "three_way": false,
+          "home": {
+            "abbr": "CBJ",
+            "name": "Columbus Blue Jackets"
+          },
+          "away": {
+            "abbr": "PIT",
+            "name": "Pittsburgh Penguins"
+          },
+          "books": [
+            {
+              "provider": "Draft Kings",
+              "details": "CBJ -118",
+              "home": {
+                "ml": "-118",
+                "spread_odds": "+205",
+                "open": {
+                  "ml": "-125",
+                  "spread_odds": "+190",
+                  "point_spread": "-1.5"
+                },
+                "current": {
+                  "ml": "-118",
+                  "spread_odds": "+205",
+                  "point_spread": "-1.5"
+                }
+              },
+              "away": {
+                "ml": "-102",
+                "spread_odds": "-250",
+                "open": {
+                  "ml": "+105",
+                  "spread_odds": "-230",
                   "point_spread": "+1.5"
                 },
-                "close": {
-                  "ml": "+300",
-                  "spread_odds": "+124",
+                "current": {
+                  "ml": "-102",
+                  "spread_odds": "-250",
+                  "point_spread": "+1.5"
+                }
+              },
+              "spread": -1.5,
+              "total": 6.5,
+              "over_odds": "-115",
+              "under_odds": "-105"
+            }
+          ]
+        },
+        {
+          "id": "401892468",
+          "league": "nhl",
+          "league_label": "NHL",
+          "name": "Anaheim Ducks at Winnipeg Jets",
+          "short_name": "ANA @ WPG",
+          "date": "2026-10-10T00:00Z",
+          "status": "upcoming",
+          "three_way": false,
+          "home": {
+            "abbr": "WPG",
+            "name": "Winnipeg Jets"
+          },
+          "away": {
+            "abbr": "ANA",
+            "name": "Anaheim Ducks"
+          },
+          "books": [
+            {
+              "provider": "Draft Kings",
+              "details": "WPG -125",
+              "home": {
+                "ml": "-125",
+                "spread_odds": "+205",
+                "open": {
+                  "ml": "-120",
+                  "spread_odds": "+200",
+                  "point_spread": "-1.5"
+                },
+                "current": {
+                  "ml": "-125",
+                  "spread_odds": "+205",
+                  "point_spread": "-1.5"
+                }
+              },
+              "away": {
+                "ml": "+105",
+                "spread_odds": "-250",
+                "open": {
+                  "ml": "+100",
+                  "spread_odds": "-245",
+                  "point_spread": "+1.5"
+                },
+                "current": {
+                  "ml": "+105",
+                  "spread_odds": "-250",
                   "point_spread": "+1.5"
                 }
               },
@@ -1443,270 +1271,6 @@
               "total": 6.5,
               "over_odds": "-102",
               "under_odds": "-118"
-            }
-          ]
-        },
-        {
-          "id": "401892462",
-          "league": "nhl",
-          "league_label": "NHL",
-          "name": "Chicago Blackhawks at New York Islanders",
-          "short_name": "CHI @ NYI",
-          "date": "2026-10-08T23:30Z",
-          "status": "final",
-          "three_way": false,
-          "home": {
-            "abbr": "NYI",
-            "name": "New York Islanders"
-          },
-          "away": {
-            "abbr": "CHI",
-            "name": "Chicago Blackhawks"
-          },
-          "books": [
-            {
-              "provider": "DraftKings",
-              "details": "NYI -185",
-              "home": {
-                "ml": "-185",
-                "spread_odds": "+140",
-                "open": {
-                  "ml": "-205",
-                  "spread_odds": "+120",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "-185",
-                  "spread_odds": "+140",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-185",
-                  "spread_odds": "+140",
-                  "point_spread": "-1.5"
-                }
-              },
-              "away": {
-                "ml": "+154",
-                "spread_odds": "-166",
-                "open": {
-                  "ml": "+170",
-                  "spread_odds": "-142",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "+154",
-                  "spread_odds": "-166",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "+154",
-                  "spread_odds": "-166",
-                  "point_spread": "+1.5"
-                }
-              },
-              "spread": -1.5,
-              "total": 5.5,
-              "over_odds": "-125",
-              "under_odds": "+105"
-            }
-          ]
-        },
-        {
-          "id": "401891825",
-          "league": "nhl",
-          "league_label": "NHL",
-          "name": "San Jose Sharks at St. Louis Blues",
-          "short_name": "SJ @ STL",
-          "date": "2026-10-09T00:00Z",
-          "status": "final",
-          "three_way": false,
-          "home": {
-            "abbr": "STL",
-            "name": "St. Louis Blues"
-          },
-          "away": {
-            "abbr": "SJ",
-            "name": "San Jose Sharks"
-          },
-          "books": [
-            {
-              "provider": "DraftKings",
-              "details": "STL -162",
-              "home": {
-                "ml": "-162",
-                "spread_odds": "+160",
-                "open": {
-                  "ml": "+100",
-                  "spread_odds": "-245",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "-162",
-                  "spread_odds": "+160",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-162",
-                  "spread_odds": "+160",
-                  "point_spread": "-1.5"
-                }
-              },
-              "away": {
-                "ml": "+136",
-                "spread_odds": "-192",
-                "open": {
-                  "ml": "-120",
-                  "spread_odds": "+200",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "+136",
-                  "spread_odds": "-192",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "+136",
-                  "spread_odds": "-192",
-                  "point_spread": "+1.5"
-                }
-              },
-              "spread": -1.5,
-              "total": 5.5,
-              "over_odds": "-125",
-              "under_odds": "+105"
-            }
-          ]
-        },
-        {
-          "id": "401892463",
-          "league": "nhl",
-          "league_label": "NHL",
-          "name": "Colorado Avalanche at Calgary Flames",
-          "short_name": "COL @ CGY",
-          "date": "2026-10-09T01:00Z",
-          "status": "final",
-          "three_way": false,
-          "home": {
-            "abbr": "CGY",
-            "name": "Calgary Flames"
-          },
-          "away": {
-            "abbr": "COL",
-            "name": "Colorado Avalanche"
-          },
-          "books": [
-            {
-              "provider": "DraftKings",
-              "details": "COL -238",
-              "home": {
-                "ml": "+195",
-                "spread_odds": "-125",
-                "open": {
-                  "ml": "+180",
-                  "spread_odds": "-135",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "+195",
-                  "spread_odds": "-125",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "+195",
-                  "spread_odds": "-125",
-                  "point_spread": "+1.5"
-                }
-              },
-              "away": {
-                "ml": "-238",
-                "spread_odds": "+105",
-                "open": {
-                  "ml": "-218",
-                  "spread_odds": "+114",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "-238",
-                  "spread_odds": "+105",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-238",
-                  "spread_odds": "+105",
-                  "point_spread": "-1.5"
-                }
-              },
-              "spread": 1.5,
-              "total": 6.5,
-              "over_odds": "+105",
-              "under_odds": "-125"
-            }
-          ]
-        },
-        {
-          "id": "401892464",
-          "league": "nhl",
-          "league_label": "NHL",
-          "name": "Toronto Maple Leafs at Vegas Golden Knights",
-          "short_name": "TOR @ VGK",
-          "date": "2026-10-09T02:00Z",
-          "status": "final",
-          "three_way": false,
-          "home": {
-            "abbr": "VGK",
-            "name": "Vegas Golden Knights"
-          },
-          "away": {
-            "abbr": "TOR",
-            "name": "Toronto Maple Leafs"
-          },
-          "books": [
-            {
-              "provider": "DraftKings",
-              "details": "VGK -170",
-              "home": {
-                "ml": "-170",
-                "spread_odds": "+150",
-                "open": {
-                  "ml": "-162",
-                  "spread_odds": "+154",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "-170",
-                  "spread_odds": "+150",
-                  "point_spread": "-1.5"
-                },
-                "close": {
-                  "ml": "-170",
-                  "spread_odds": "+150",
-                  "point_spread": "-1.5"
-                }
-              },
-              "away": {
-                "ml": "+142",
-                "spread_odds": "-180",
-                "open": {
-                  "ml": "+136",
-                  "spread_odds": "-185",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "+142",
-                  "spread_odds": "-180",
-                  "point_spread": "+1.5"
-                },
-                "close": {
-                  "ml": "+142",
-                  "spread_odds": "-180",
-                  "point_spread": "+1.5"
-                }
-              },
-              "spread": -1.5,
-              "total": 6.5,
-              "over_odds": "-125",
-              "under_odds": "+105"
             }
           ]
         }
@@ -1768,7 +1332,7 @@
               "spread": -1.5,
               "total": 2.5,
               "over_odds": "-120",
-              "under_odds": "-105"
+              "under_odds": "+100"
             },
             {
               "provider": "Bet 365",
@@ -1800,9 +1364,9 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "BRE +160",
+              "details": "BRE +150",
               "home": {
-                "ml": "+165",
+                "ml": "+170",
                 "spread_odds": "-195",
                 "open": {
                   "ml": "+145",
@@ -1810,22 +1374,22 @@
                   "point_spread": "-0.5"
                 },
                 "current": {
-                  "ml": "+165",
+                  "ml": "+170",
                   "spread_odds": "-195",
                   "point_spread": "+0.5"
                 }
               },
               "away": {
-                "ml": "+160",
-                "spread_odds": "+140",
+                "ml": "+150",
+                "spread_odds": "+135",
                 "open": {
                   "ml": "+165",
                   "spread_odds": "-200",
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+160",
-                  "spread_odds": "+140",
+                  "ml": "+150",
+                  "spread_odds": "+135",
                   "point_spread": "-0.5"
                 }
               },
@@ -1864,9 +1428,9 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "CHE -150",
+              "details": "CHE -140",
               "home": {
-                "ml": "-150",
+                "ml": "-140",
                 "spread_odds": "-160",
                 "open": {
                   "ml": "-130",
@@ -1874,13 +1438,13 @@
                   "point_spread": "-0.5"
                 },
                 "current": {
-                  "ml": "-150",
+                  "ml": "-140",
                   "spread_odds": "-160",
                   "point_spread": "-0.5"
                 }
               },
               "away": {
-                "ml": "+370",
+                "ml": "+350",
                 "spread_odds": "+115",
                 "open": {
                   "ml": "+285",
@@ -1888,7 +1452,7 @@
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+370",
+                  "ml": "+350",
                   "spread_odds": "+115",
                   "point_spread": "+0.5"
                 }
@@ -1928,32 +1492,32 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "FUL +140",
+              "details": "FUL +150",
               "home": {
-                "ml": "+185",
-                "spread_odds": "-180",
+                "ml": "+175",
+                "spread_odds": "-190",
                 "open": {
                   "ml": "+160",
                   "spread_odds": "-205",
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+185",
-                  "spread_odds": "-180",
+                  "ml": "+175",
+                  "spread_odds": "-190",
                   "point_spread": "+0.5"
                 }
               },
               "away": {
-                "ml": "+140",
-                "spread_odds": "+130",
+                "ml": "+150",
+                "spread_odds": "+135",
                 "open": {
                   "ml": "+150",
                   "spread_odds": "+130",
                   "point_spread": "-0.5"
                 },
                 "current": {
-                  "ml": "+140",
-                  "spread_odds": "+130",
+                  "ml": "+150",
+                  "spread_odds": "+135",
                   "point_spread": "-0.5"
                 }
               },
@@ -1992,23 +1556,23 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "BHA +135",
+              "details": "BHA +130",
               "home": {
-                "ml": "+195",
-                "spread_odds": "-165",
+                "ml": "+200",
+                "spread_odds": "-170",
                 "open": {
                   "ml": "+175",
                   "spread_odds": "-195",
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+195",
-                  "spread_odds": "-165",
+                  "ml": "+200",
+                  "spread_odds": "-170",
                   "point_spread": "+0.5"
                 }
               },
               "away": {
-                "ml": "+135",
+                "ml": "+130",
                 "spread_odds": "+120",
                 "open": {
                   "ml": "+140",
@@ -2016,7 +1580,7 @@
                   "point_spread": "-0.5"
                 },
                 "current": {
-                  "ml": "+135",
+                  "ml": "+130",
                   "spread_odds": "+120",
                   "point_spread": "-0.5"
                 }
