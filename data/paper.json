@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 703.91,
+  "bankroll": 731.23,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -20,42 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401908941:away:20261012T023308Z",
-      "placed_at": "2026-10-12T02:32:57Z",
-      "event_id": "401908941",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "CHI @ DEN",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "CHI",
-      "line": null,
-      "odds_american": "+215",
-      "odds_decimal": 3.15,
-      "stake": 14.66,
-      "book": "Draft Kings",
-      "fair_prob": 0.4566,
-      "edge": 0.1392
-    },
-    {
-      "id": "401908030:home:20261012T023308Z",
-      "placed_at": "2026-10-12T02:32:57Z",
-      "event_id": "401908030",
-      "league": "mlb",
-      "league_label": "MLB",
-      "matchup": "LAD @ MIL",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "MIL",
-      "line": null,
-      "odds_american": "-111",
-      "odds_decimal": 1.9009,
-      "stake": 14.37,
-      "book": "DraftKings",
-      "fair_prob": 0.6042,
-      "edge": 0.0781
     }
   ],
   "settled": [
@@ -583,6 +547,48 @@
       "graded_at": "2026-10-12T02:33:07Z",
       "final_score": "SEA 5 @ WSH 3",
       "profit": 24.11
+    },
+    {
+      "id": "401908941:away:20261012T023308Z",
+      "placed_at": "2026-10-12T02:32:57Z",
+      "event_id": "401908941",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "CHI @ DEN",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "CHI",
+      "line": null,
+      "odds_american": "+215",
+      "odds_decimal": 3.15,
+      "stake": 14.66,
+      "book": "Draft Kings",
+      "fair_prob": 0.4566,
+      "edge": 0.1392,
+      "graded_at": "2026-10-12T10:06:59Z",
+      "final_score": "CHI 128 @ DEN 133",
+      "profit": -14.66
+    },
+    {
+      "id": "401908030:home:20261012T023308Z",
+      "placed_at": "2026-10-12T02:32:57Z",
+      "event_id": "401908030",
+      "league": "mlb",
+      "league_label": "MLB",
+      "matchup": "LAD @ MIL",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "MIL",
+      "line": null,
+      "odds_american": "-111",
+      "odds_decimal": 1.9009,
+      "stake": 14.37,
+      "book": "DraftKings",
+      "fair_prob": 0.6042,
+      "edge": 0.0781,
+      "graded_at": "2026-10-12T10:06:59Z",
+      "final_score": "LAD 1 @ MIL 2",
+      "profit": 12.95
     }
   ],
   "equity": [
@@ -693,25 +699,21 @@
     {
       "t": "2026-10-12T02:33:08Z",
       "bankroll": 703.91
+    },
+    {
+      "t": "2026-10-12T10:07:01Z",
+      "bankroll": 731.23
     }
   ],
   "consensus": {
-    "401872993": {
-      "h": 0.6336553945249597,
-      "a": 0.42120384492604546
-    },
     "401872994": {
       "h": 0.6428571428571429,
       "a": 0.4
     },
-    "401908941": {
-      "h": 0.5713470319634704,
-      "a": 0.4801587301587302
-    },
-    "401908030": {
-      "h": 0.6321431229994292,
-      "a": 0.414110230605928
+    "401879267": {
+      "h": 0.31746031746031744,
+      "a": 0.45454545454545453
     }
   },
-  "updated_at": "2026-10-12T02:33:08Z"
+  "updated_at": "2026-10-12T10:07:01Z"
 }
