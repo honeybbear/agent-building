@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T01:46:08Z",
+  "fetched_at": "2026-10-13T08:50:43Z",
   "source": "ESPN public API (site.api.espn.com + sports.core.api.espn.com) - free, no key",
   "leagues": {
     "nfl": {
@@ -937,7 +937,7 @@
           "name": "Buffalo Bills at Los Angeles Rams",
           "short_name": "BUF @ LAR",
           "date": "2026-10-13T00:15Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "LAR",
@@ -993,42 +993,6 @@
               "total": 55.5,
               "over_odds": "-108",
               "under_odds": "-112"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "BUF -1.5",
-              "home": {
-                "ml": "-102",
-                "spread_odds": "-113",
-                "open": {
-                  "ml": "-186",
-                  "spread_odds": "-109",
-                  "point_spread": "-3.5"
-                },
-                "current": {
-                  "ml": "-102",
-                  "spread_odds": "-113",
-                  "point_spread": "+1.5"
-                }
-              },
-              "away": {
-                "ml": "-129",
-                "spread_odds": "-117",
-                "open": {
-                  "ml": "+140",
-                  "spread_odds": "-121",
-                  "point_spread": "+3.5"
-                },
-                "current": {
-                  "ml": "-129",
-                  "spread_odds": "-117",
-                  "point_spread": "-1.5"
-                }
-              },
-              "spread": 1.5,
-              "total": 47.5,
-              "over_odds": "-115",
-              "under_odds": "-114"
             }
           ]
         }
@@ -1235,7 +1199,7 @@
           "name": "Minnesota Timberwolves at New York Knicks",
           "short_name": "MIN @ NY",
           "date": "2026-10-12T23:30Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "NY",
@@ -1291,42 +1255,6 @@
               "total": 228.5,
               "over_odds": "-110",
               "under_odds": "-110"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "MIN -9.5",
-              "home": {
-                "ml": "+400",
-                "spread_odds": "-125",
-                "open": {
-                  "ml": "+100",
-                  "spread_odds": "-110",
-                  "point_spread": "+0"
-                },
-                "current": {
-                  "ml": "+400",
-                  "spread_odds": "-125",
-                  "point_spread": "+9.5"
-                }
-              },
-              "away": {
-                "ml": "-620",
-                "spread_odds": "-105",
-                "open": {
-                  "ml": "-120",
-                  "spread_odds": "-120",
-                  "point_spread": "-0"
-                },
-                "current": {
-                  "ml": "-620",
-                  "spread_odds": "-105",
-                  "point_spread": "-9.5"
-                }
-              },
-              "spread": 9.5,
-              "total": 229.5,
-              "over_odds": "-125",
-              "under_odds": "-105"
             }
           ]
         },
@@ -1337,7 +1265,7 @@
           "name": "San Antonio Spurs at Utah Jazz",
           "short_name": "SA @ UTAH",
           "date": "2026-10-13T01:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "UTAH",
@@ -1393,42 +1321,6 @@
               "total": 228.5,
               "over_odds": "-110",
               "under_odds": "-110"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "UTAH -11.5",
-              "home": {
-                "ml": "-475",
-                "spread_odds": "-110",
-                "open": {
-                  "ml": "-200",
-                  "spread_odds": "-120",
-                  "point_spread": "-5.5"
-                },
-                "current": {
-                  "ml": "-475",
-                  "spread_odds": "-110",
-                  "point_spread": "-11.5"
-                }
-              },
-              "away": {
-                "ml": "+325",
-                "spread_odds": "-120",
-                "open": {
-                  "ml": "+154",
-                  "spread_odds": "-110",
-                  "point_spread": "+5.5"
-                },
-                "current": {
-                  "ml": "+325",
-                  "spread_odds": "-120",
-                  "point_spread": "+11.5"
-                }
-              },
-              "spread": -11.5,
-              "total": 229.5,
-              "over_odds": "-115",
-              "under_odds": "-115"
             }
           ]
         }
@@ -1509,7 +1401,7 @@
           "name": "Cleveland Guardians at Tampa Bay Rays",
           "short_name": "CLE @ TB",
           "date": "2026-10-13T00:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "TB",
@@ -1563,40 +1455,6 @@
               "total": 6.5,
               "over_odds": "-115",
               "under_odds": "-105"
-            },
-            {
-              "provider": "DraftKings - Live Odds",
-              "details": "TB -481",
-              "home": {
-                "ml": "-481",
-                "open": {
-                  "ml": "-193",
-                  "spread_odds": "+123",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "-481",
-                  "spread_odds": "+132",
-                  "point_spread": "-1.5"
-                }
-              },
-              "away": {
-                "ml": "+323",
-                "open": {
-                  "ml": "+146",
-                  "spread_odds": "-160",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "+323",
-                  "spread_odds": "-173",
-                  "point_spread": "+1.5"
-                }
-              },
-              "spread": -1.5,
-              "total": 5.5,
-              "over_odds": "+121",
-              "under_odds": "-159"
             }
           ]
         }
@@ -1745,7 +1603,7 @@
           "name": "Vegas Golden Knights at Minnesota Wild",
           "short_name": "VGK @ MIN",
           "date": "2026-10-13T00:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "MIN",
@@ -1800,42 +1658,6 @@
               "spread": -1.5,
               "total": 5.5,
               "over_odds": "-135",
-              "under_odds": "+114"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "MIN -950",
-              "home": {
-                "ml": "-950",
-                "spread_odds": "+110",
-                "open": {
-                  "ml": "-110",
-                  "spread_odds": "-280",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "-950",
-                  "spread_odds": "+110",
-                  "point_spread": "-2.5"
-                }
-              },
-              "away": {
-                "ml": "+575",
-                "spread_odds": "-140",
-                "open": {
-                  "ml": "-120",
-                  "spread_odds": "+210",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "+575",
-                  "spread_odds": "-140",
-                  "point_spread": "+2.5"
-                }
-              },
-              "spread": -2.5,
-              "total": 6.5,
-              "over_odds": "-145",
               "under_odds": "+114"
             }
           ]
