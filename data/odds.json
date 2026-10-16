@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T18:53:00Z",
+  "fetched_at": "2026-10-16T21:52:33Z",
   "source": "ESPN public API (site.api.espn.com + sports.core.api.espn.com) - free, no key",
   "leagues": {
     "nfl": {
@@ -206,37 +206,37 @@
               "provider": "DraftKings",
               "details": "BAL -3",
               "home": {
-                "ml": "+136",
-                "spread_odds": "-110",
+                "ml": "+140",
+                "spread_odds": "-108",
                 "open": {
                   "ml": "+220",
                   "spread_odds": "-110",
                   "point_spread": "+6.5"
                 },
                 "current": {
-                  "ml": "+136",
-                  "spread_odds": "-110",
+                  "ml": "+140",
+                  "spread_odds": "-108",
                   "point_spread": "+3"
                 }
               },
               "away": {
-                "ml": "-162",
-                "spread_odds": "-110",
+                "ml": "-166",
+                "spread_odds": "-112",
                 "open": {
                   "ml": "-270",
                   "spread_odds": "-110",
                   "point_spread": "-6.5"
                 },
                 "current": {
-                  "ml": "-162",
-                  "spread_odds": "-110",
+                  "ml": "-166",
+                  "spread_odds": "-112",
                   "point_spread": "-3"
                 }
               },
               "spread": 3.0,
-              "total": 40.5,
-              "over_odds": "-102",
-              "under_odds": "-118"
+              "total": 39.5,
+              "over_odds": "-112",
+              "under_odds": "-108"
             }
           ]
         },
@@ -262,7 +262,7 @@
               "provider": "DraftKings",
               "details": "IND -7",
               "home": {
-                "ml": "-345",
+                "ml": "-340",
                 "spread_odds": "-105",
                 "open": {
                   "ml": "-192",
@@ -270,13 +270,13 @@
                   "point_spread": "-3.5"
                 },
                 "current": {
-                  "ml": "-345",
+                  "ml": "-340",
                   "spread_odds": "-105",
                   "point_spread": "-7"
                 }
               },
               "away": {
-                "ml": "+275",
+                "ml": "+270",
                 "spread_odds": "-115",
                 "open": {
                   "ml": "+160",
@@ -284,7 +284,7 @@
                   "point_spread": "+3.5"
                 },
                 "current": {
-                  "ml": "+275",
+                  "ml": "+270",
                   "spread_odds": "-115",
                   "point_spread": "+7"
                 }
@@ -430,30 +430,30 @@
               "provider": "DraftKings",
               "details": "CAR -3.5",
               "home": {
-                "ml": "+145",
-                "spread_odds": "-115",
+                "ml": "+142",
+                "spread_odds": "-118",
                 "open": {
                   "ml": "-285",
                   "spread_odds": "-110",
                   "point_spread": "-6.5"
                 },
                 "current": {
-                  "ml": "+145",
-                  "spread_odds": "-115",
+                  "ml": "+142",
+                  "spread_odds": "-118",
                   "point_spread": "+3.5"
                 }
               },
               "away": {
-                "ml": "-175",
-                "spread_odds": "-105",
+                "ml": "-170",
+                "spread_odds": "-102",
                 "open": {
                   "ml": "+230",
                   "spread_odds": "-110",
                   "point_spread": "+6.5"
                 },
                 "current": {
-                  "ml": "-175",
-                  "spread_odds": "-105",
+                  "ml": "-170",
+                  "spread_odds": "-102",
                   "point_spread": "-3.5"
                 }
               },
@@ -542,7 +542,7 @@
               "provider": "DraftKings",
               "details": "LAR -12.5",
               "home": {
-                "ml": "-900",
+                "ml": "-850",
                 "spread_odds": "-112",
                 "open": {
                   "ml": "-700",
@@ -550,13 +550,13 @@
                   "point_spread": "-13.5"
                 },
                 "current": {
-                  "ml": "-900",
+                  "ml": "-850",
                   "spread_odds": "-112",
                   "point_spread": "-12.5"
                 }
               },
               "away": {
-                "ml": "+600",
+                "ml": "+575",
                 "spread_odds": "-108",
                 "open": {
                   "ml": "+500",
@@ -564,15 +564,15 @@
                   "point_spread": "+13.5"
                 },
                 "current": {
-                  "ml": "+600",
+                  "ml": "+575",
                   "spread_odds": "-108",
                   "point_spread": "+12.5"
                 }
               },
               "spread": -12.5,
               "total": 51.5,
-              "over_odds": "-118",
-              "under_odds": "-102"
+              "over_odds": "-112",
+              "under_odds": "-108"
             }
           ]
         },
@@ -598,7 +598,7 @@
               "provider": "DraftKings",
               "details": "KC -7.5",
               "home": {
-                "ml": "-425",
+                "ml": "-440",
                 "spread_odds": "-105",
                 "open": {
                   "ml": "-135",
@@ -606,13 +606,13 @@
                   "point_spread": "-2.5"
                 },
                 "current": {
-                  "ml": "-425",
+                  "ml": "-440",
                   "spread_odds": "-105",
                   "point_spread": "-7.5"
                 }
               },
               "away": {
-                "ml": "+330",
+                "ml": "+340",
                 "spread_odds": "-115",
                 "open": {
                   "ml": "+114",
@@ -620,7 +620,7 @@
                   "point_spread": "+2.5"
                 },
                 "current": {
-                  "ml": "+330",
+                  "ml": "+340",
                   "spread_odds": "-115",
                   "point_spread": "+7.5"
                 }
@@ -652,10 +652,10 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "BUF -5.5",
+              "details": "BUF -4.5",
               "home": {
                 "ml": "+190",
-                "spread_odds": "-118",
+                "spread_odds": "-102",
                 "open": {
                   "ml": "+230",
                   "spread_odds": "-110",
@@ -663,13 +663,13 @@
                 },
                 "current": {
                   "ml": "+190",
-                  "spread_odds": "-118",
-                  "point_spread": "+5.5"
+                  "spread_odds": "-102",
+                  "point_spread": "+4.5"
                 }
               },
               "away": {
                 "ml": "-230",
-                "spread_odds": "-102",
+                "spread_odds": "-118",
                 "open": {
                   "ml": "-285",
                   "spread_odds": "-110",
@@ -677,11 +677,11 @@
                 },
                 "current": {
                   "ml": "-230",
-                  "spread_odds": "-102",
-                  "point_spread": "-5.5"
+                  "spread_odds": "-118",
+                  "point_spread": "-4.5"
                 }
               },
-              "spread": 5.5,
+              "spread": 4.5,
               "total": 53.5,
               "over_odds": "-115",
               "under_odds": "-105"
@@ -766,7 +766,7 @@
               "provider": "DraftKings",
               "details": "SF -7.5",
               "home": {
-                "ml": "-440",
+                "ml": "-425",
                 "spread_odds": "-108",
                 "open": {
                   "ml": "-250",
@@ -774,13 +774,13 @@
                   "point_spread": "-5.5"
                 },
                 "current": {
-                  "ml": "-440",
+                  "ml": "-425",
                   "spread_odds": "-108",
                   "point_spread": "-7.5"
                 }
               },
               "away": {
-                "ml": "+340",
+                "ml": "+330",
                 "spread_odds": "-112",
                 "open": {
                   "ml": "+205",
@@ -788,15 +788,15 @@
                   "point_spread": "+5.5"
                 },
                 "current": {
-                  "ml": "+340",
+                  "ml": "+330",
                   "spread_odds": "-112",
                   "point_spread": "+7.5"
                 }
               },
               "spread": -7.5,
-              "total": 51.5,
-              "over_odds": "-112",
-              "under_odds": "-108"
+              "total": 52.5,
+              "over_odds": "-105",
+              "under_odds": "-115"
             }
           ]
         }
@@ -826,9 +826,9 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "ORL -2.5",
+              "details": "ORL -7.5",
               "home": {
-                "ml": "-142",
+                "ml": "-285",
                 "spread_odds": "-115",
                 "open": {
                   "ml": "-142",
@@ -836,13 +836,13 @@
                   "point_spread": "-2.5"
                 },
                 "current": {
-                  "ml": "-142",
+                  "ml": "-285",
                   "spread_odds": "-115",
-                  "point_spread": "-2.5"
+                  "point_spread": "-7.5"
                 }
               },
               "away": {
-                "ml": "+120",
+                "ml": "+230",
                 "spread_odds": "-105",
                 "open": {
                   "ml": "+120",
@@ -850,12 +850,12 @@
                   "point_spread": "+2.5"
                 },
                 "current": {
-                  "ml": "+120",
+                  "ml": "+230",
                   "spread_odds": "-105",
-                  "point_spread": "+2.5"
+                  "point_spread": "+7.5"
                 }
               },
-              "spread": -2.5,
+              "spread": -7.5,
               "total": 234.5,
               "over_odds": "-115",
               "under_odds": "-105"
@@ -882,36 +882,36 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "PHI -3.5",
+              "details": "PHI -6.5",
               "home": {
-                "ml": "-175",
-                "spread_odds": "-115",
+                "ml": "-218",
+                "spread_odds": "-105",
                 "open": {
                   "ml": "-185",
                   "spread_odds": "-110",
                   "point_spread": "-5.5"
                 },
                 "current": {
-                  "ml": "-175",
-                  "spread_odds": "-115",
-                  "point_spread": "-3.5"
+                  "ml": "-218",
+                  "spread_odds": "-105",
+                  "point_spread": "-6.5"
                 }
               },
               "away": {
-                "ml": "+145",
-                "spread_odds": "-105",
+                "ml": "+180",
+                "spread_odds": "-115",
                 "open": {
                   "ml": "+154",
                   "spread_odds": "-110",
                   "point_spread": "+5.5"
                 },
                 "current": {
-                  "ml": "+145",
-                  "spread_odds": "-105",
-                  "point_spread": "+3.5"
+                  "ml": "+180",
+                  "spread_odds": "-115",
+                  "point_spread": "+6.5"
                 }
               },
-              "spread": -3.5,
+              "spread": -6.5,
               "total": 225.5,
               "over_odds": "-110",
               "under_odds": "-110"
@@ -968,9 +968,9 @@
                 }
               },
               "spread": -10.5,
-              "total": 218.5,
-              "over_odds": "-108",
-              "under_odds": "-112"
+              "total": 219.5,
+              "over_odds": "-105",
+              "under_odds": "-115"
             }
           ]
         },
@@ -996,30 +996,30 @@
               "provider": "DraftKings",
               "details": "IND -7.5",
               "home": {
-                "ml": "-310",
-                "spread_odds": "-115",
+                "ml": "-298",
+                "spread_odds": "-110",
                 "open": {
                   "ml": "-325",
                   "spread_odds": "-110",
                   "point_spread": "-9.5"
                 },
                 "current": {
-                  "ml": "-310",
-                  "spread_odds": "-115",
+                  "ml": "-298",
+                  "spread_odds": "-110",
                   "point_spread": "-7.5"
                 }
               },
               "away": {
-                "ml": "+250",
-                "spread_odds": "-105",
+                "ml": "+240",
+                "spread_odds": "-110",
                 "open": {
                   "ml": "+260",
                   "spread_odds": "-110",
                   "point_spread": "+9.5"
                 },
                 "current": {
-                  "ml": "+250",
-                  "spread_odds": "-105",
+                  "ml": "+240",
+                  "spread_odds": "-110",
                   "point_spread": "+7.5"
                 }
               },
@@ -1108,30 +1108,30 @@
               "provider": "DraftKings",
               "details": "SA -14.5",
               "home": {
-                "ml": "-850",
-                "spread_odds": "-112",
+                "ml": "-800",
+                "spread_odds": "-105",
                 "open": {
                   "ml": "-650",
                   "spread_odds": "-115",
                   "point_spread": "-13.5"
                 },
                 "current": {
-                  "ml": "-850",
-                  "spread_odds": "-112",
+                  "ml": "-800",
+                  "spread_odds": "-105",
                   "point_spread": "-14.5"
                 }
               },
               "away": {
-                "ml": "+575",
-                "spread_odds": "-108",
+                "ml": "+550",
+                "spread_odds": "-115",
                 "open": {
                   "ml": "+525",
                   "spread_odds": "-105",
                   "point_spread": "+13.5"
                 },
                 "current": {
-                  "ml": "+575",
-                  "spread_odds": "-108",
+                  "ml": "+550",
+                  "spread_odds": "-115",
                   "point_spread": "+14.5"
                 }
               },
@@ -1164,37 +1164,37 @@
               "provider": "DraftKings",
               "details": "MEM -1.5",
               "home": {
-                "ml": "-122",
-                "spread_odds": "-115",
+                "ml": "-130",
+                "spread_odds": "-118",
                 "open": {
                   "ml": "-125",
                   "spread_odds": "-115",
                   "point_spread": "-1.5"
                 },
                 "current": {
-                  "ml": "-122",
-                  "spread_odds": "-115",
+                  "ml": "-130",
+                  "spread_odds": "-118",
                   "point_spread": "-1.5"
                 }
               },
               "away": {
-                "ml": "+102",
-                "spread_odds": "-105",
+                "ml": "+110",
+                "spread_odds": "-102",
                 "open": {
                   "ml": "+105",
                   "spread_odds": "-105",
                   "point_spread": "+1.5"
                 },
                 "current": {
-                  "ml": "+102",
-                  "spread_odds": "-105",
+                  "ml": "+110",
+                  "spread_odds": "-102",
                   "point_spread": "+1.5"
                 }
               },
               "spread": -1.5,
-              "total": 230.5,
-              "over_odds": "-110",
-              "under_odds": "-110"
+              "total": 229.5,
+              "over_odds": "-105",
+              "under_odds": "-115"
             }
           ]
         },
@@ -1218,39 +1218,39 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "WSH -2.5",
+              "details": "WSH -1.5",
               "home": {
-                "ml": "+114",
-                "spread_odds": "-115",
+                "ml": "+100",
+                "spread_odds": "-110",
                 "open": {
                   "ml": "+120",
                   "spread_odds": "-105",
                   "point_spread": "+2.5"
                 },
                 "current": {
-                  "ml": "+114",
-                  "spread_odds": "-115",
-                  "point_spread": "+2.5"
+                  "ml": "+100",
+                  "spread_odds": "-110",
+                  "point_spread": "+1.5"
                 }
               },
               "away": {
-                "ml": "-135",
-                "spread_odds": "-105",
+                "ml": "-120",
+                "spread_odds": "-110",
                 "open": {
                   "ml": "-142",
                   "spread_odds": "-115",
                   "point_spread": "-2.5"
                 },
                 "current": {
-                  "ml": "-135",
-                  "spread_odds": "-105",
-                  "point_spread": "-2.5"
+                  "ml": "-120",
+                  "spread_odds": "-110",
+                  "point_spread": "-1.5"
                 }
               },
-              "spread": 2.5,
-              "total": 230.5,
-              "over_odds": "-105",
-              "under_odds": "-115"
+              "spread": 1.5,
+              "total": 229.5,
+              "over_odds": "-112",
+              "under_odds": "-108"
             }
           ]
         },
@@ -1274,36 +1274,36 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "CHI -3.5",
+              "details": "CHI -4.5",
               "home": {
-                "ml": "-162",
-                "spread_odds": "-108",
+                "ml": "-180",
+                "spread_odds": "-105",
                 "open": {
                   "ml": "-110",
                   "spread_odds": "+102",
                   "point_spread": "-1.5"
                 },
                 "current": {
-                  "ml": "-162",
-                  "spread_odds": "-108",
-                  "point_spread": "-3.5"
+                  "ml": "-180",
+                  "spread_odds": "-105",
+                  "point_spread": "-4.5"
                 }
               },
               "away": {
-                "ml": "+136",
-                "spread_odds": "-112",
+                "ml": "+150",
+                "spread_odds": "-115",
                 "open": {
                   "ml": "-110",
                   "spread_odds": "-122",
                   "point_spread": "+1.5"
                 },
                 "current": {
-                  "ml": "+136",
-                  "spread_odds": "-112",
-                  "point_spread": "+3.5"
+                  "ml": "+150",
+                  "spread_odds": "-115",
+                  "point_spread": "+4.5"
                 }
               },
-              "spread": -3.5,
+              "spread": -4.5,
               "total": 234.5,
               "over_odds": "-108",
               "under_odds": "-112"
@@ -1332,7 +1332,7 @@
               "provider": "DraftKings",
               "details": "POR -2.5",
               "home": {
-                "ml": "+124",
+                "ml": "+130",
                 "spread_odds": "-108",
                 "open": {
                   "ml": "+110",
@@ -1340,13 +1340,13 @@
                   "point_spread": "+2.5"
                 },
                 "current": {
-                  "ml": "+124",
+                  "ml": "+130",
                   "spread_odds": "-108",
                   "point_spread": "+2.5"
                 }
               },
               "away": {
-                "ml": "-148",
+                "ml": "-155",
                 "spread_odds": "-112",
                 "open": {
                   "ml": "-130",
@@ -1354,7 +1354,7 @@
                   "point_spread": "-2.5"
                 },
                 "current": {
-                  "ml": "-148",
+                  "ml": "-155",
                   "spread_odds": "-112",
                   "point_spread": "-2.5"
                 }
@@ -1444,37 +1444,37 @@
               "provider": "DraftKings",
               "details": "LAL -6.5",
               "home": {
-                "ml": "-270",
-                "spread_odds": "-112",
+                "ml": "-245",
+                "spread_odds": "-105",
                 "open": {
                   "ml": "-198",
                   "spread_odds": "-105",
                   "point_spread": "-6.5"
                 },
                 "current": {
-                  "ml": "-270",
-                  "spread_odds": "-112",
+                  "ml": "-245",
+                  "spread_odds": "-105",
                   "point_spread": "-6.5"
                 }
               },
               "away": {
-                "ml": "+220",
-                "spread_odds": "-108",
+                "ml": "+200",
+                "spread_odds": "-115",
                 "open": {
                   "ml": "+164",
                   "spread_odds": "-115",
                   "point_spread": "+6.5"
                 },
                 "current": {
-                  "ml": "+220",
-                  "spread_odds": "-108",
+                  "ml": "+200",
+                  "spread_odds": "-115",
                   "point_spread": "+6.5"
                 }
               },
               "spread": -6.5,
-              "total": 230.5,
-              "over_odds": "-115",
-              "under_odds": "-105"
+              "total": 229.5,
+              "over_odds": "-112",
+              "under_odds": "-108"
             }
           ]
         }
@@ -1504,37 +1504,37 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "CLE -111",
+              "details": "TB -114",
               "home": {
-                "ml": "-111",
+                "ml": "-105",
                 "open": {
                   "ml": "-108",
                   "spread_odds": "-189",
                   "point_spread": "+1.5"
                 },
                 "current": {
-                  "ml": "-111",
-                  "spread_odds": "-198",
+                  "ml": "-105",
+                  "spread_odds": "-196",
                   "point_spread": "+1.5"
                 }
               },
               "away": {
-                "ml": "-109",
+                "ml": "-114",
                 "open": {
                   "ml": "-112",
                   "spread_odds": "+155",
                   "point_spread": "-1.5"
                 },
                 "current": {
-                  "ml": "-109",
-                  "spread_odds": "+162",
+                  "ml": "-114",
+                  "spread_odds": "+161",
                   "point_spread": "-1.5"
                 }
               },
               "spread": 1.5,
               "total": 6.5,
-              "over_odds": "-118",
-              "under_odds": "-102"
+              "over_odds": "-109",
+              "under_odds": "-110"
             }
           ]
         }
@@ -1620,36 +1620,36 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "ANA -112",
+              "details": "BOS -112",
               "home": {
-                "ml": "-112",
-                "spread_odds": "+220",
+                "ml": "-108",
+                "spread_odds": "-285",
                 "open": {
                   "ml": "+100",
                   "spread_odds": "-238",
                   "point_spread": "+1.5"
                 },
                 "current": {
-                  "ml": "-112",
-                  "spread_odds": "+220",
-                  "point_spread": "-1.5"
+                  "ml": "-108",
+                  "spread_odds": "-285",
+                  "point_spread": "+1.5"
                 }
               },
               "away": {
-                "ml": "-108",
-                "spread_odds": "-270",
+                "ml": "-112",
+                "spread_odds": "+230",
                 "open": {
                   "ml": "-120",
                   "spread_odds": "+195",
                   "point_spread": "-1.5"
                 },
                 "current": {
-                  "ml": "-108",
-                  "spread_odds": "-270",
-                  "point_spread": "+1.5"
+                  "ml": "-112",
+                  "spread_odds": "+230",
+                  "point_spread": "-1.5"
                 }
               },
-              "spread": -1.5,
+              "spread": 1.5,
               "total": 6.5,
               "over_odds": "-105",
               "under_odds": "-115"
@@ -1891,7 +1891,7 @@
               },
               "away": {
                 "ml": "+900",
-                "spread_odds": "+105",
+                "spread_odds": "+110",
                 "open": {
                   "ml": "+900",
                   "spread_odds": "+115",
@@ -1899,14 +1899,14 @@
                 },
                 "current": {
                   "ml": "+900",
-                  "spread_odds": "+105",
+                  "spread_odds": "+110",
                   "point_spread": "+1.5"
                 }
               },
               "spread": -1.5,
               "total": 3.5,
-              "over_odds": "+100",
-              "under_odds": "-125"
+              "over_odds": "-105",
+              "under_odds": "-120"
             },
             {
               "provider": "Bet 365",
