@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T18:13:43Z",
+  "fetched_at": "2026-10-18T20:56:39Z",
   "source": "ESPN public API (site.api.espn.com + sports.core.api.espn.com) - free, no key",
   "leagues": {
     "nfl": {
@@ -25,7 +25,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "SEA -3",
               "home": {
                 "ml": "+130",
@@ -91,7 +91,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "JAX -2.5",
               "home": {
                 "ml": "-142",
@@ -145,7 +145,7 @@
           "name": "Chicago Bears at Atlanta Falcons",
           "short_name": "CHI @ ATL",
           "date": "2026-10-18T17:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "ATL",
@@ -157,7 +157,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "CHI -1.5",
               "home": {
                 "ml": "-105",
@@ -201,42 +201,6 @@
               "total": 50.5,
               "over_odds": "-115",
               "under_odds": "-105"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "CHI -5.5",
-              "home": {
-                "ml": "+212",
-                "spread_odds": "-115",
-                "open": {
-                  "ml": "-112",
-                  "spread_odds": "-126",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "+212",
-                  "spread_odds": "-115",
-                  "point_spread": "+5.5"
-                }
-              },
-              "away": {
-                "ml": "-293",
-                "spread_odds": "-114",
-                "open": {
-                  "ml": "-118",
-                  "spread_odds": "-105",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "-293",
-                  "spread_odds": "-114",
-                  "point_spread": "-5.5"
-                }
-              },
-              "spread": 5.5,
-              "total": 51.5,
-              "over_odds": "-118",
-              "under_odds": "-112"
             }
           ]
         },
@@ -247,7 +211,7 @@
           "name": "Baltimore Ravens at Cleveland Browns",
           "short_name": "BAL @ CLE",
           "date": "2026-10-18T17:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "CLE",
@@ -259,7 +223,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "BAL -3",
               "home": {
                 "ml": "+140",
@@ -303,42 +267,6 @@
               "total": 40.5,
               "over_odds": "-112",
               "under_odds": "-108"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "BAL -10.5",
-              "home": {
-                "ml": "+515",
-                "spread_odds": "-127",
-                "open": {
-                  "ml": "+126",
-                  "spread_odds": "-115",
-                  "point_spread": "+3"
-                },
-                "current": {
-                  "ml": "+515",
-                  "spread_odds": "-127",
-                  "point_spread": "+10.5"
-                }
-              },
-              "away": {
-                "ml": "-870",
-                "spread_odds": "-104",
-                "open": {
-                  "ml": "-167",
-                  "spread_odds": "-115",
-                  "point_spread": "-3"
-                },
-                "current": {
-                  "ml": "-870",
-                  "spread_odds": "-104",
-                  "point_spread": "-10.5"
-                }
-              },
-              "spread": 10.5,
-              "total": 32.5,
-              "over_odds": "-119",
-              "under_odds": "-111"
             }
           ]
         },
@@ -349,7 +277,7 @@
           "name": "Tennessee Titans at Indianapolis Colts",
           "short_name": "TEN @ IND",
           "date": "2026-10-18T17:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "IND",
@@ -361,7 +289,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "IND -6.5",
               "home": {
                 "ml": "-298",
@@ -405,42 +333,6 @@
               "total": 43.5,
               "over_odds": "-112",
               "under_odds": "-108"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "IND -12.5",
-              "home": {
-                "ml": "-1660",
-                "spread_odds": "-118",
-                "open": {
-                  "ml": "-311",
-                  "spread_odds": "-114",
-                  "point_spread": "-6.5"
-                },
-                "current": {
-                  "ml": "-1660",
-                  "spread_odds": "-118",
-                  "point_spread": "-12.5"
-                }
-              },
-              "away": {
-                "ml": "+790",
-                "spread_odds": "-111",
-                "open": {
-                  "ml": "+224",
-                  "spread_odds": "-115",
-                  "point_spread": "+6.5"
-                },
-                "current": {
-                  "ml": "+790",
-                  "spread_odds": "-111",
-                  "point_spread": "+12.5"
-                }
-              },
-              "spread": -12.5,
-              "total": 36.5,
-              "over_odds": "-111",
-              "under_odds": "-119"
             }
           ]
         },
@@ -451,7 +343,7 @@
           "name": "New York Jets at New England Patriots",
           "short_name": "NYJ @ NE",
           "date": "2026-10-18T17:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "NE",
@@ -463,7 +355,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "NE -7.5",
               "home": {
                 "ml": "-345",
@@ -507,42 +399,6 @@
               "total": 42.5,
               "over_odds": "-118",
               "under_odds": "-102"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "NE -10.5",
-              "home": {
-                "ml": "-1040",
-                "spread_odds": "-117",
-                "open": {
-                  "ml": "-358",
-                  "spread_odds": "-114",
-                  "point_spread": "-7.5"
-                },
-                "current": {
-                  "ml": "-1040",
-                  "spread_odds": "-117",
-                  "point_spread": "-10.5"
-                }
-              },
-              "away": {
-                "ml": "+582",
-                "spread_odds": "-112",
-                "open": {
-                  "ml": "+253",
-                  "spread_odds": "-116",
-                  "point_spread": "+7.5"
-                },
-                "current": {
-                  "ml": "+582",
-                  "spread_odds": "-112",
-                  "point_spread": "+10.5"
-                }
-              },
-              "spread": -10.5,
-              "total": 36.5,
-              "over_odds": "-125",
-              "under_odds": "-105"
             }
           ]
         },
@@ -553,7 +409,7 @@
           "name": "New Orleans Saints at New York Giants",
           "short_name": "NO @ NYG",
           "date": "2026-10-18T17:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "NYG",
@@ -565,7 +421,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "NO -1.5",
               "home": {
                 "ml": "-112",
@@ -609,42 +465,6 @@
               "total": 46.5,
               "over_odds": "-108",
               "under_odds": "-112"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "NYG -6.5",
-              "home": {
-                "ml": "-328",
-                "spread_odds": "-109",
-                "open": {
-                  "ml": "-121",
-                  "spread_odds": "-109",
-                  "point_spread": "-1.5"
-                },
-                "current": {
-                  "ml": "-328",
-                  "spread_odds": "-109",
-                  "point_spread": "-6.5"
-                }
-              },
-              "away": {
-                "ml": "+235",
-                "spread_odds": "-121",
-                "open": {
-                  "ml": "-109",
-                  "spread_odds": "-121",
-                  "point_spread": "+1.5"
-                },
-                "current": {
-                  "ml": "+235",
-                  "spread_odds": "-121",
-                  "point_spread": "+6.5"
-                }
-              },
-              "spread": -6.5,
-              "total": 36.5,
-              "over_odds": "-120",
-              "under_odds": "-109"
             }
           ]
         },
@@ -655,7 +475,7 @@
           "name": "Carolina Panthers at Philadelphia Eagles",
           "short_name": "CAR @ PHI",
           "date": "2026-10-18T17:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "PHI",
@@ -667,7 +487,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "CAR -3",
               "home": {
                 "ml": "+136",
@@ -711,42 +531,6 @@
               "total": 39.5,
               "over_odds": "-118",
               "under_odds": "-102"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "CAR -7.5",
-              "home": {
-                "ml": "+307",
-                "spread_odds": "-110",
-                "open": {
-                  "ml": "+133",
-                  "spread_odds": "-123",
-                  "point_spread": "+3.5"
-                },
-                "current": {
-                  "ml": "+307",
-                  "spread_odds": "-110",
-                  "point_spread": "+7.5"
-                }
-              },
-              "away": {
-                "ml": "-448",
-                "spread_odds": "-119",
-                "open": {
-                  "ml": "-177",
-                  "spread_odds": "-107",
-                  "point_spread": "-3.5"
-                },
-                "current": {
-                  "ml": "-448",
-                  "spread_odds": "-119",
-                  "point_spread": "-7.5"
-                }
-              },
-              "spread": 7.5,
-              "total": 32.5,
-              "over_odds": "-116",
-              "under_odds": "-113"
             }
           ]
         },
@@ -757,7 +541,7 @@
           "name": "Pittsburgh Steelers at Tampa Bay Buccaneers",
           "short_name": "PIT @ TB",
           "date": "2026-10-18T17:00Z",
-          "status": "live",
+          "status": "final",
           "three_way": false,
           "home": {
             "abbr": "TB",
@@ -769,7 +553,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "PIT -2.5",
               "home": {
                 "ml": "+114",
@@ -813,42 +597,6 @@
               "total": 37.5,
               "over_odds": "-112",
               "under_odds": "-108"
-            },
-            {
-              "provider": "Draft Kings - Live Odds",
-              "details": "TB -9.5",
-              "home": {
-                "ml": "-586",
-                "spread_odds": "-121",
-                "open": {
-                  "ml": "+107",
-                  "spread_odds": "-132",
-                  "point_spread": "+3.5"
-                },
-                "current": {
-                  "ml": "-586",
-                  "spread_odds": "-121",
-                  "point_spread": "-9.5"
-                }
-              },
-              "away": {
-                "ml": "+382",
-                "spread_odds": "-109",
-                "open": {
-                  "ml": "-167",
-                  "spread_odds": "+100",
-                  "point_spread": "-3.5"
-                },
-                "current": {
-                  "ml": "+382",
-                  "spread_odds": "-109",
-                  "point_spread": "+9.5"
-                }
-              },
-              "spread": -9.5,
-              "total": 33.5,
-              "over_odds": "-121",
-              "under_odds": "-109"
             }
           ]
         },
@@ -859,7 +607,7 @@
           "name": "Arizona Cardinals at Los Angeles Rams",
           "short_name": "ARI @ LAR",
           "date": "2026-10-18T20:05Z",
-          "status": "upcoming",
+          "status": "live",
           "three_way": false,
           "home": {
             "abbr": "LAR",
@@ -871,10 +619,10 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
-              "details": "LAR -12.5",
+              "provider": "DraftKings",
+              "details": "LAR -13.5",
               "home": {
-                "ml": "-750",
+                "ml": "-900",
                 "spread_odds": "-112",
                 "open": {
                   "ml": "-700",
@@ -882,13 +630,18 @@
                   "point_spread": "-13.5"
                 },
                 "current": {
-                  "ml": "-750",
+                  "ml": "-900",
                   "spread_odds": "-112",
-                  "point_spread": "-12.5"
+                  "point_spread": "-13.5"
+                },
+                "close": {
+                  "ml": "-900",
+                  "spread_odds": "-112",
+                  "point_spread": "-13.5"
                 }
               },
               "away": {
-                "ml": "+525",
+                "ml": "+600",
                 "spread_odds": "-108",
                 "open": {
                   "ml": "+500",
@@ -896,15 +649,56 @@
                   "point_spread": "+13.5"
                 },
                 "current": {
-                  "ml": "+525",
+                  "ml": "+600",
                   "spread_odds": "-108",
-                  "point_spread": "+12.5"
+                  "point_spread": "+13.5"
+                },
+                "close": {
+                  "ml": "+600",
+                  "spread_odds": "-108",
+                  "point_spread": "+13.5"
                 }
               },
-              "spread": -12.5,
+              "spread": -13.5,
               "total": 51.5,
+              "over_odds": "-110",
+              "under_odds": "-110"
+            },
+            {
+              "provider": "DraftKings - Live Odds",
+              "details": "LAR -9.5",
+              "home": {
+                "ml": "-640",
+                "spread_odds": "-118",
+                "open": {
+                  "ml": "-770",
+                  "spread_odds": "-115",
+                  "point_spread": "-13.5"
+                },
+                "current": {
+                  "ml": "-640",
+                  "spread_odds": "-118",
+                  "point_spread": "-9.5"
+                }
+              },
+              "away": {
+                "ml": "+410",
+                "spread_odds": "-112",
+                "open": {
+                  "ml": "+471",
+                  "spread_odds": "-114",
+                  "point_spread": "+13.5"
+                },
+                "current": {
+                  "ml": "+410",
+                  "spread_odds": "-112",
+                  "point_spread": "+9.5"
+                }
+              },
+              "spread": -9.5,
+              "total": 48.5,
               "over_odds": "-115",
-              "under_odds": "-105"
+              "under_odds": "-115"
             }
           ]
         },
@@ -915,7 +709,7 @@
           "name": "Los Angeles Chargers at Kansas City Chiefs",
           "short_name": "LAC @ KC",
           "date": "2026-10-18T20:25Z",
-          "status": "upcoming",
+          "status": "live",
           "three_way": false,
           "home": {
             "abbr": "KC",
@@ -927,7 +721,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "KC -7.5",
               "home": {
                 "ml": "-425",
@@ -938,6 +732,11 @@
                   "point_spread": "-2.5"
                 },
                 "current": {
+                  "ml": "-425",
+                  "spread_odds": "-105",
+                  "point_spread": "-7.5"
+                },
+                "close": {
                   "ml": "-425",
                   "spread_odds": "-105",
                   "point_spread": "-7.5"
@@ -955,12 +754,53 @@
                   "ml": "+330",
                   "spread_odds": "-115",
                   "point_spread": "+7.5"
+                },
+                "close": {
+                  "ml": "+330",
+                  "spread_odds": "-115",
+                  "point_spread": "+7.5"
                 }
               },
               "spread": -7.5,
               "total": 41.5,
+              "over_odds": "-115",
+              "under_odds": "-105"
+            },
+            {
+              "provider": "DraftKings - Live Odds",
+              "details": "KC -11.5",
+              "home": {
+                "ml": "-870",
+                "spread_odds": "-112",
+                "open": {
+                  "ml": "-420",
+                  "spread_odds": "-115",
+                  "point_spread": "-7.5"
+                },
+                "current": {
+                  "ml": "-870",
+                  "spread_odds": "-112",
+                  "point_spread": "-11.5"
+                }
+              },
+              "away": {
+                "ml": "+513",
+                "spread_odds": "-118",
+                "open": {
+                  "ml": "+290",
+                  "spread_odds": "-115",
+                  "point_spread": "+7.5"
+                },
+                "current": {
+                  "ml": "+513",
+                  "spread_odds": "-118",
+                  "point_spread": "+11.5"
+                }
+              },
+              "spread": -11.5,
+              "total": 45.5,
               "over_odds": "-112",
-              "under_odds": "-108"
+              "under_odds": "-118"
             }
           ]
         },
@@ -971,7 +811,7 @@
           "name": "Buffalo Bills at Las Vegas Raiders",
           "short_name": "BUF @ LV",
           "date": "2026-10-18T20:25Z",
-          "status": "upcoming",
+          "status": "live",
           "three_way": false,
           "home": {
             "abbr": "LV",
@@ -983,11 +823,11 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "BUF -5.5",
               "home": {
                 "ml": "+200",
-                "spread_odds": "-112",
+                "spread_odds": "-115",
                 "open": {
                   "ml": "+230",
                   "spread_odds": "-110",
@@ -995,13 +835,18 @@
                 },
                 "current": {
                   "ml": "+200",
-                  "spread_odds": "-112",
+                  "spread_odds": "-115",
+                  "point_spread": "+5.5"
+                },
+                "close": {
+                  "ml": "+200",
+                  "spread_odds": "-115",
                   "point_spread": "+5.5"
                 }
               },
               "away": {
                 "ml": "-245",
-                "spread_odds": "-108",
+                "spread_odds": "-105",
                 "open": {
                   "ml": "-285",
                   "spread_odds": "-110",
@@ -1009,14 +854,55 @@
                 },
                 "current": {
                   "ml": "-245",
-                  "spread_odds": "-108",
+                  "spread_odds": "-105",
+                  "point_spread": "-5.5"
+                },
+                "close": {
+                  "ml": "-245",
+                  "spread_odds": "-105",
                   "point_spread": "-5.5"
                 }
               },
               "spread": 5.5,
-              "total": 53.5,
-              "over_odds": "-112",
-              "under_odds": "-108"
+              "total": 54.5,
+              "over_odds": "-105",
+              "under_odds": "-115"
+            },
+            {
+              "provider": "DraftKings - Live Odds",
+              "details": "BUF -3.5",
+              "home": {
+                "ml": "+155",
+                "spread_odds": "-119",
+                "open": {
+                  "ml": "+188",
+                  "spread_odds": "-120",
+                  "point_spread": "+5.5"
+                },
+                "current": {
+                  "ml": "+155",
+                  "spread_odds": "-119",
+                  "point_spread": "+3.5"
+                }
+              },
+              "away": {
+                "ml": "-208",
+                "spread_odds": "-111",
+                "open": {
+                  "ml": "-256",
+                  "spread_odds": "-110",
+                  "point_spread": "-5.5"
+                },
+                "current": {
+                  "ml": "-208",
+                  "spread_odds": "-111",
+                  "point_spread": "-3.5"
+                }
+              },
+              "spread": 3.5,
+              "total": 57.5,
+              "over_odds": "-106",
+              "under_odds": "-125"
             }
           ]
         },
@@ -1039,10 +925,10 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "GB -1.5",
               "home": {
-                "ml": "-115",
+                "ml": "-112",
                 "spread_odds": "-102",
                 "open": {
                   "ml": "-166",
@@ -1050,13 +936,13 @@
                   "point_spread": "-3"
                 },
                 "current": {
-                  "ml": "-115",
+                  "ml": "-112",
                   "spread_odds": "-102",
                   "point_spread": "-1.5"
                 }
               },
               "away": {
-                "ml": "-105",
+                "ml": "-108",
                 "spread_odds": "-118",
                 "open": {
                   "ml": "+140",
@@ -1064,7 +950,7 @@
                   "point_spread": "+3"
                 },
                 "current": {
-                  "ml": "-105",
+                  "ml": "-108",
                   "spread_odds": "-118",
                   "point_spread": "+1.5"
                 }
@@ -1095,7 +981,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "SF -7.5",
               "home": {
                 "ml": "-455",
@@ -1157,7 +1043,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "BOS -1.5",
               "home": {
                 "ml": "-108",
@@ -1213,7 +1099,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "NY -4.5",
               "home": {
                 "ml": "-192",
@@ -1269,7 +1155,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "SA -2.5",
               "home": {
                 "ml": "-142",
@@ -1332,37 +1218,37 @@
           "books": [
             {
               "provider": "DraftKings",
-              "details": "TB -132",
+              "details": "TB -122",
               "home": {
-                "ml": "+110",
+                "ml": "+109",
                 "open": {
                   "ml": "+107",
                   "spread_odds": "-186",
                   "point_spread": "+1.5"
                 },
                 "current": {
-                  "ml": "+110",
-                  "spread_odds": "-164",
+                  "ml": "+109",
+                  "spread_odds": "-168",
                   "point_spread": "+1.5"
                 }
               },
               "away": {
-                "ml": "-132",
+                "ml": "-122",
                 "open": {
                   "ml": "-128",
                   "spread_odds": "+153",
                   "point_spread": "-1.5"
                 },
                 "current": {
-                  "ml": "-132",
-                  "spread_odds": "+135",
+                  "ml": "-122",
+                  "spread_odds": "+139",
                   "point_spread": "-1.5"
                 }
               },
               "spread": 1.5,
-              "total": 6.5,
-              "over_odds": "-102",
-              "under_odds": "-118"
+              "total": 6.0,
+              "over_odds": "-115",
+              "under_odds": "-105"
             }
           ]
         }
@@ -1391,7 +1277,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "MIN -192",
               "home": {
                 "ml": "-192",
@@ -1447,7 +1333,7 @@
           },
           "books": [
             {
-              "provider": "Draft Kings",
+              "provider": "DraftKings",
               "details": "CAR -218",
               "home": {
                 "ml": "+180",
