@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 1188.81,
+  "bankroll": 1096.52,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -20,6 +20,78 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
+    },
+    {
+      "id": "401873004:away:20261018T224725Z",
+      "placed_at": "2026-10-18T22:47:14Z",
+      "event_id": "401873004",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "ARI @ LAR",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "ARI",
+      "line": null,
+      "odds_american": "+600",
+      "odds_decimal": 7.0,
+      "stake": 23.78,
+      "book": "Draft Kings",
+      "fair_prob": 0.3111,
+      "edge": 0.1683
+    },
+    {
+      "id": "401873006:away:20261018T224725Z",
+      "placed_at": "2026-10-18T22:47:14Z",
+      "event_id": "401873006",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "LAC @ KC",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "LAC",
+      "line": null,
+      "odds_american": "+1640",
+      "odds_decimal": 17.4,
+      "stake": 23.3,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.1388,
+      "edge": 0.0813
+    },
+    {
+      "id": "401873005:home:20261018T224725Z",
+      "placed_at": "2026-10-18T22:47:14Z",
+      "event_id": "401873005",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "BUF @ LV",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "LV",
+      "line": null,
+      "odds_american": "+830",
+      "odds_decimal": 9.3,
+      "stake": 22.83,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.21,
+      "edge": 0.1025
+    },
+    {
+      "id": "401930515:away:20261018T224725Z",
+      "placed_at": "2026-10-18T22:47:14Z",
+      "event_id": "401930515",
+      "league": "mlb",
+      "league_label": "MLB",
+      "matchup": "TB @ CLE",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "TB",
+      "line": null,
+      "odds_american": "-120",
+      "odds_decimal": 1.8333,
+      "stake": 22.38,
+      "book": "DraftKings",
+      "fair_prob": 0.7062,
+      "edge": 0.1607
     }
   ],
   "settled": [
@@ -1691,24 +1763,28 @@
     {
       "t": "2026-10-18T20:56:51Z",
       "bankroll": 1188.81
+    },
+    {
+      "t": "2026-10-18T22:47:25Z",
+      "bankroll": 1096.52
     }
   ],
   "consensus": {
     "401873004": {
-      "h": 0.8824324324324324,
-      "a": 0.16946778711484595
+      "h": 0.7277777777777779,
+      "a": 0.32871012482662965
     },
     "401873006": {
-      "h": 0.8532155130093275,
-      "a": 0.19784513828293943
+      "h": 0.8998114097123998,
+      "a": 0.1450147019513499
     },
     "401873005": {
-      "h": 0.3627450980392157,
-      "a": 0.6927348014304536
+      "h": 0.22043010752688172,
+      "a": 0.8292992678918273
     },
     "401873007": {
-      "h": 0.5283018867924528,
-      "a": 0.5192307692307693
+      "h": 0.5192307692307693,
+      "a": 0.5283018867924528
     },
     "401873008": {
       "h": 0.8198198198198198,
@@ -1727,8 +1803,8 @@
       "a": 0.45454545454545453
     },
     "401930515": {
-      "h": 0.4784688995215311,
-      "a": 0.5495495495495496
+      "h": 0.30705128205128207,
+      "a": 0.7380050505050505
     },
     "401892533": {
       "h": 0.6575342465753424,
@@ -1739,5 +1815,5 @@
       "a": 0.6855345911949685
     }
   },
-  "updated_at": "2026-10-18T20:56:51Z"
+  "updated_at": "2026-10-18T22:47:25Z"
 }
