@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 870.64,
+  "bankroll": 789.77,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -22,22 +22,130 @@
       "edge": 0.0434
     },
     {
-      "id": "401872996:away:20261018T151445Z",
-      "placed_at": "2026-10-18T15:14:34Z",
-      "event_id": "401872996",
+      "id": "401872999:home:20261018T181355Z",
+      "placed_at": "2026-10-18T18:13:43Z",
+      "event_id": "401872999",
       "league": "nfl",
       "league_label": "NFL",
-      "matchup": "HOU VS JAX",
+      "matchup": "CHI @ ATL",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "ATL",
+      "line": null,
+      "odds_american": "+212",
+      "odds_decimal": 3.12,
+      "stake": 18.19,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.3941,
+      "edge": 0.0735
+    },
+    {
+      "id": "401872997:home:20261018T181355Z",
+      "placed_at": "2026-10-18T18:13:43Z",
+      "event_id": "401872997",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "BAL @ CLE",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "CLE",
+      "line": null,
+      "odds_american": "+515",
+      "odds_decimal": 6.15,
+      "stake": 17.83,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.2758,
+      "edge": 0.1132
+    },
+    {
+      "id": "401873003:away:20261018T181355Z",
+      "placed_at": "2026-10-18T18:13:43Z",
+      "event_id": "401873003",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "TEN @ IND",
       "market": "moneyline",
       "side": "away",
-      "side_abbr": "HOU",
+      "side_abbr": "TEN",
       "line": null,
-      "odds_american": "+120",
-      "odds_decimal": 2.2,
-      "stake": 17.77,
-      "book": "DraftKings",
-      "fair_prob": 0.4992,
-      "edge": 0.0447
+      "odds_american": "+790",
+      "odds_decimal": 8.9,
+      "stake": 17.47,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.1937,
+      "edge": 0.0813
+    },
+    {
+      "id": "401873001:away:20261018T181355Z",
+      "placed_at": "2026-10-18T18:13:43Z",
+      "event_id": "401873001",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "NYJ @ NE",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "NYJ",
+      "line": null,
+      "odds_american": "+582",
+      "odds_decimal": 6.82,
+      "stake": 17.12,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.1967,
+      "edge": 0.0501
+    },
+    {
+      "id": "401873000:away:20261018T181355Z",
+      "placed_at": "2026-10-18T18:13:43Z",
+      "event_id": "401873000",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "NO @ NYG",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "NO",
+      "line": null,
+      "odds_american": "+235",
+      "odds_decimal": 3.35,
+      "stake": 16.78,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.3871,
+      "edge": 0.0886
+    },
+    {
+      "id": "401872998:home:20261018T181355Z",
+      "placed_at": "2026-10-18T18:13:43Z",
+      "event_id": "401872998",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "CAR @ PHI",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "PHI",
+      "line": null,
+      "odds_american": "+307",
+      "odds_decimal": 4.07,
+      "stake": 16.45,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.318,
+      "edge": 0.0723
+    },
+    {
+      "id": "401873002:away:20261018T181355Z",
+      "placed_at": "2026-10-18T18:13:43Z",
+      "event_id": "401873002",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "PIT @ TB",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "PIT",
+      "line": null,
+      "odds_american": "+382",
+      "odds_decimal": 4.82,
+      "stake": 16.12,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.3717,
+      "edge": 0.1643
     }
   ],
   "settled": [
@@ -1279,6 +1387,27 @@
       "graded_at": "2026-10-18T06:16:15Z",
       "final_score": "STL 2 @ NSH 5",
       "profit": -17.25
+    },
+    {
+      "id": "401872996:away:20261018T151445Z",
+      "placed_at": "2026-10-18T15:14:34Z",
+      "event_id": "401872996",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "HOU VS JAX",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "HOU",
+      "line": null,
+      "odds_american": "+120",
+      "odds_decimal": 2.2,
+      "stake": 17.77,
+      "book": "DraftKings",
+      "fair_prob": 0.4992,
+      "edge": 0.0447,
+      "graded_at": "2026-10-18T18:13:53Z",
+      "final_score": "HOU 34 @ JAX 31",
+      "profit": 21.32
     }
   ],
   "equity": [
@@ -1533,48 +1662,48 @@
     {
       "t": "2026-10-18T15:14:45Z",
       "bankroll": 870.64
+    },
+    {
+      "t": "2026-10-18T18:13:55Z",
+      "bankroll": 789.77
     }
   ],
   "consensus": {
-    "401872996": {
-      "h": 0.5281302137896249,
-      "a": 0.5264695144213216
-    },
     "401872999": {
-      "h": 0.504950495049505,
-      "a": 0.5412844036697247
+      "h": 0.41635397123202,
+      "a": 0.6402153973607905
     },
     "401872997": {
-      "h": 0.40816326530612246,
-      "a": 0.6363636363636364
+      "h": 0.28963414634146345,
+      "a": 0.7604836834353926
     },
     "401873003": {
-      "h": 0.7435897435897436,
-      "a": 0.29850746268656714
+      "h": 0.8459627683873916,
+      "a": 0.20323859881031064
     },
     "401873001": {
-      "h": 0.7752808988764045,
-      "a": 0.26666666666666666
+      "h": 0.8437808003153953,
+      "a": 0.2066471163245357
     },
     "401873000": {
-      "h": 0.5283018867924528,
-      "a": 0.5192307692307693
+      "h": 0.6473285134896843,
+      "a": 0.4088691159586682
     },
     "401872998": {
-      "h": 0.423728813559322,
-      "a": 0.6183206106870229
+      "h": 0.3347145296297839,
+      "a": 0.7179194294311027
     },
     "401873002": {
-      "h": 0.47619047619047616,
-      "a": 0.5652173913043478
+      "h": 0.6607585624369908,
+      "a": 0.39096848238721643
     },
     "401873004": {
-      "h": 0.8888888888888888,
-      "a": 0.15384615384615385
+      "h": 0.8823529411764706,
+      "a": 0.16
     },
     "401873006": {
-      "h": 0.803921568627451,
-      "a": 0.23809523809523808
+      "h": 0.8095238095238095,
+      "a": 0.23255813953488372
     },
     "401873005": {
       "h": 0.3333333333333333,
@@ -1611,11 +1740,7 @@
     "401892534": {
       "h": 0.35714285714285715,
       "a": 0.6855345911949685
-    },
-    "401878769": {
-      "h": 0.14285714285714285,
-      "a": 0.6610169491525424
     }
   },
-  "updated_at": "2026-10-18T15:14:45Z"
+  "updated_at": "2026-10-18T18:13:55Z"
 }
