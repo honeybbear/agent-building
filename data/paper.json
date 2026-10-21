@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 1148.23,
+  "bankroll": 1281.44,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -20,96 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401909089:away:20261021T014844Z",
-      "placed_at": "2026-10-21T01:48:35Z",
-      "event_id": "401909089",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "PHI @ NY",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "PHI",
-      "line": null,
-      "odds_american": "+145",
-      "odds_decimal": 2.45,
-      "stake": 25.41,
-      "book": "DraftKings",
-      "fair_prob": 0.525,
-      "edge": 0.1168
-    },
-    {
-      "id": "401892539:away:20261021T014844Z",
-      "placed_at": "2026-10-21T01:48:35Z",
-      "event_id": "401892539",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "SJ @ MTL",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "SJ",
-      "line": null,
-      "odds_american": "+185",
-      "odds_decimal": 2.85,
-      "stake": 24.9,
-      "book": "DraftKings",
-      "fair_prob": 0.3892,
-      "edge": 0.0383
-    },
-    {
-      "id": "401892544:away:20261021T014844Z",
-      "placed_at": "2026-10-21T01:48:35Z",
-      "event_id": "401892544",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "WPG @ STL",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "WPG",
-      "line": null,
-      "odds_american": "+280",
-      "odds_decimal": 3.8,
-      "stake": 24.4,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.3474,
-      "edge": 0.0842
-    },
-    {
-      "id": "401892545:away:20261021T014844Z",
-      "placed_at": "2026-10-21T01:48:35Z",
-      "event_id": "401892545",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "BOS @ DAL",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "BOS",
-      "line": null,
-      "odds_american": "+142",
-      "odds_decimal": 2.42,
-      "stake": 23.91,
-      "book": "DraftKings",
-      "fair_prob": 0.5396,
-      "edge": 0.1264
-    },
-    {
-      "id": "401892546:away:20261021T014844Z",
-      "placed_at": "2026-10-21T01:48:35Z",
-      "event_id": "401892546",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "MIN @ EDM",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "MIN",
-      "line": null,
-      "odds_american": "+105",
-      "odds_decimal": 2.05,
-      "stake": 23.43,
-      "book": "DraftKings",
-      "fair_prob": 0.5459,
-      "edge": 0.0581
     }
   ],
   "settled": [
@@ -1687,6 +1597,111 @@
       "graded_at": "2026-10-20T23:16:52Z",
       "final_score": "BOS 113 @ DET 121",
       "profit": 42.96
+    },
+    {
+      "id": "401909089:away:20261021T014844Z",
+      "placed_at": "2026-10-21T01:48:35Z",
+      "event_id": "401909089",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "PHI @ NY",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "PHI",
+      "line": null,
+      "odds_american": "+145",
+      "odds_decimal": 2.45,
+      "stake": 25.41,
+      "book": "DraftKings",
+      "fair_prob": 0.525,
+      "edge": 0.1168,
+      "graded_at": "2026-10-21T06:54:36Z",
+      "final_score": "PHI 106 @ NY 100",
+      "profit": 36.84
+    },
+    {
+      "id": "401892539:away:20261021T014844Z",
+      "placed_at": "2026-10-21T01:48:35Z",
+      "event_id": "401892539",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "SJ @ MTL",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "SJ",
+      "line": null,
+      "odds_american": "+185",
+      "odds_decimal": 2.85,
+      "stake": 24.9,
+      "book": "DraftKings",
+      "fair_prob": 0.3892,
+      "edge": 0.0383,
+      "graded_at": "2026-10-21T06:54:36Z",
+      "final_score": "SJ 4 @ MTL 3",
+      "profit": 46.06
+    },
+    {
+      "id": "401892544:away:20261021T014844Z",
+      "placed_at": "2026-10-21T01:48:35Z",
+      "event_id": "401892544",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "WPG @ STL",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "WPG",
+      "line": null,
+      "odds_american": "+280",
+      "odds_decimal": 3.8,
+      "stake": 24.4,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.3474,
+      "edge": 0.0842,
+      "graded_at": "2026-10-21T06:54:36Z",
+      "final_score": "WPG 1 @ STL 2",
+      "profit": -24.4
+    },
+    {
+      "id": "401892545:away:20261021T014844Z",
+      "placed_at": "2026-10-21T01:48:35Z",
+      "event_id": "401892545",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "BOS @ DAL",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "BOS",
+      "line": null,
+      "odds_american": "+142",
+      "odds_decimal": 2.42,
+      "stake": 23.91,
+      "book": "DraftKings",
+      "fair_prob": 0.5396,
+      "edge": 0.1264,
+      "graded_at": "2026-10-21T06:54:36Z",
+      "final_score": "BOS 2 @ DAL 3",
+      "profit": -23.91
+    },
+    {
+      "id": "401892546:away:20261021T014844Z",
+      "placed_at": "2026-10-21T01:48:35Z",
+      "event_id": "401892546",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "MIN @ EDM",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "MIN",
+      "line": null,
+      "odds_american": "+105",
+      "odds_decimal": 2.05,
+      "stake": 23.43,
+      "book": "DraftKings",
+      "fair_prob": 0.5459,
+      "edge": 0.0581,
+      "graded_at": "2026-10-21T06:54:36Z",
+      "final_score": "MIN 3 @ EDM 4",
+      "profit": -23.43
     }
   ],
   "equity": [
@@ -2001,53 +2016,77 @@
     {
       "t": "2026-10-21T01:48:44Z",
       "bankroll": 1148.23
+    },
+    {
+      "t": "2026-10-21T06:54:37Z",
+      "bankroll": 1281.44
     }
   ],
   "consensus": {
-    "401909089": {
-      "h": 0.5,
-      "a": 0.5525664811379097
+    "401873010": {
+      "h": 0.6078431372549019,
+      "a": 0.43478260869565216
     },
-    "401909090": {
-      "h": 0.504950495049505,
-      "a": 0.5412844036697247
+    "401873011": {
+      "h": 0.3937007874015748,
+      "a": 0.6491228070175439
+    },
+    "401873017": {
+      "h": 0.40816326530612246,
+      "a": 0.6363636363636364
+    },
+    "401873013": {
+      "h": 0.47619047619047616,
+      "a": 0.5652173913043478
+    },
+    "401873014": {
+      "h": 0.7435897435897436,
+      "a": 0.29850746268656714
+    },
+    "401873015": {
+      "h": 0.696969696969697,
+      "a": 0.3448275862068966
+    },
+    "401873018": {
+      "h": 0.6491228070175439,
+      "a": 0.3937007874015748
+    },
+    "401873012": {
+      "h": 0.5967741935483871,
+      "a": 0.44642857142857145
+    },
+    "401873016": {
+      "h": 0.84251968503937,
+      "a": 0.2
+    },
+    "401873019": {
+      "h": 0.3448275862068966,
+      "a": 0.696969696969697
+    },
+    "401873020": {
+      "h": 0.6183206106870229,
+      "a": 0.423728813559322
+    },
+    "401873021": {
+      "h": 0.35714285714285715,
+      "a": 0.6855345911949685
+    },
+    "401873022": {
+      "h": 0.5967741935483871,
+      "a": 0.44642857142857145
+    },
+    "401873009": {
+      "h": 0.3508771929824561,
+      "a": 0.6923076923076923
     },
     "401908042": {
       "h": 0.6183206106870229,
       "a": 0.42735042735042733
-    },
-    "401892539": {
-      "h": 0.6420722135007849,
-      "a": 0.4090834563043122
-    },
-    "401892544": {
-      "h": 0.6862239415430905,
-      "a": 0.36522380718150516
-    },
-    "401892545": {
-      "h": 0.48430634023854363,
-      "a": 0.567722681359045
-    },
-    "401892546": {
-      "h": 0.4777777777777778,
-      "a": 0.5744109136006614
-    },
-    "401892547": {
-      "h": 0.49504950495049505,
-      "a": 0.5495495495495496
-    },
-    "401892548": {
-      "h": 0.29411764705882354,
-      "a": 0.7487437185929648
-    },
-    "401892549": {
-      "h": 0.5238095238095238,
-      "a": 0.5238095238095238
     },
     "401879253": {
       "h": 0.3333333333333333,
       "a": 0.43478260869565216
     }
   },
-  "updated_at": "2026-10-21T01:48:44Z"
+  "updated_at": "2026-10-21T06:54:37Z"
 }
