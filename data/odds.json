@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T05:09:04Z",
+  "fetched_at": "2026-10-22T10:23:17Z",
   "source": "ESPN public API (site.api.espn.com + sports.core.api.espn.com) - free, no key",
   "leagues": {
     "nfl": {
@@ -1519,36 +1519,6 @@
               "total": 226.5,
               "over_odds": "-112",
               "under_odds": "-108"
-            },
-            {
-              "provider": "DraftKings - Live Odds",
-              "details": "LAC -22.5",
-              "home": {
-                "spread_odds": "+110",
-                "open": {
-                  "spread_odds": "-120",
-                  "point_spread": "-4.5"
-                },
-                "current": {
-                  "spread_odds": "+110",
-                  "point_spread": "-22.5"
-                }
-              },
-              "away": {
-                "spread_odds": "-140",
-                "open": {
-                  "spread_odds": "-110",
-                  "point_spread": "+4.5"
-                },
-                "current": {
-                  "spread_odds": "-140",
-                  "point_spread": "+22.5"
-                }
-              },
-              "spread": -22.5,
-              "total": 217.5,
-              "over_odds": "-130",
-              "under_odds": "+100"
             }
           ]
         }
@@ -1778,16 +1748,16 @@
               "provider": "DraftKings",
               "details": "NFO +125",
               "home": {
-                "ml": "+220",
-                "spread_odds": "-160",
+                "ml": "+215",
+                "spread_odds": "-155",
                 "open": {
                   "ml": "+175",
                   "spread_odds": "-190",
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+220",
-                  "spread_odds": "-160",
+                  "ml": "+215",
+                  "spread_odds": "-155",
                   "point_spread": "+0.5"
                 }
               },
