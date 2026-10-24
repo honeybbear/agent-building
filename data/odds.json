@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T06:47:42Z",
+  "fetched_at": "2026-10-24T11:48:03Z",
   "source": "ESPN public API (site.api.espn.com + sports.core.api.espn.com) - free, no key",
   "leagues": {
     "nfl": {
@@ -1813,41 +1813,210 @@
       "label": "EPL",
       "events": [
         {
-          "id": "401879253",
+          "id": "401879256",
           "league": "eng.1",
           "league_label": "EPL",
-          "name": "Nottingham Forest at Ipswich Town",
-          "short_name": "NFO @ IPS",
-          "date": "2026-10-23T19:00Z",
-          "status": "final",
+          "name": "Manchester City at Aston Villa",
+          "short_name": "MNC @ AVL",
+          "date": "2026-10-24T11:30Z",
+          "status": "live",
           "three_way": true,
           "home": {
-            "abbr": "IPS",
-            "name": "Ipswich Town"
+            "abbr": "AVL",
+            "name": "Aston Villa"
           },
           "away": {
-            "abbr": "NFO",
-            "name": "Nottingham Forest"
+            "abbr": "MNC",
+            "name": "Manchester City"
           },
           "books": [
             {
               "provider": "DraftKings",
-              "details": "NFO +125",
+              "details": "MNC -160",
               "home": {
-                "ml": "+225",
-                "spread_odds": "-160",
+                "ml": "+380",
+                "spread_odds": "+125",
                 "open": {
-                  "ml": "+175",
-                  "spread_odds": "-190",
+                  "ml": "+350",
+                  "spread_odds": "+115",
                   "point_spread": "+0.5"
                 },
                 "current": {
-                  "ml": "+225",
-                  "spread_odds": "-160",
+                  "ml": "+380",
+                  "spread_odds": "+125",
                   "point_spread": "+0.5"
                 },
                 "close": {
-                  "ml": "+225",
+                  "ml": "+380",
+                  "spread_odds": "+125",
+                  "point_spread": "+0.5"
+                }
+              },
+              "away": {
+                "ml": "-160",
+                "spread_odds": "-170",
+                "open": {
+                  "ml": "-155",
+                  "spread_odds": "-175",
+                  "point_spread": "-0.5"
+                },
+                "current": {
+                  "ml": "-160",
+                  "spread_odds": "-170",
+                  "point_spread": "-0.5"
+                },
+                "close": {
+                  "ml": "-160",
+                  "spread_odds": "-170",
+                  "point_spread": "-0.5"
+                }
+              },
+              "spread": 0.5,
+              "total": 3.5,
+              "over_odds": "-110",
+              "under_odds": "-115"
+            },
+            {
+              "provider": "Bet 365",
+              "details": null,
+              "spread": null,
+              "total": null,
+              "over_odds": null,
+              "under_odds": null
+            },
+            {
+              "provider": "DraftKings - Live Odds",
+              "details": "MNC +130",
+              "home": {
+                "ml": "+165",
+                "spread_odds": "-175",
+                "open": {
+                  "ml": "+370",
+                  "spread_odds": "+120",
+                  "point_spread": "+0.5"
+                },
+                "current": {
+                  "ml": "+165",
+                  "spread_odds": "-175",
+                  "point_spread": "+0.5"
+                }
+              },
+              "away": {
+                "ml": "+130",
+                "spread_odds": "+120",
+                "open": {
+                  "ml": "-160",
+                  "spread_odds": "-175",
+                  "point_spread": "-0.5"
+                },
+                "current": {
+                  "ml": "+130",
+                  "spread_odds": "+120",
+                  "point_spread": "-0.5"
+                }
+              },
+              "spread": 0.5,
+              "total": 3.5,
+              "over_odds": "-169",
+              "under_odds": "+142"
+            }
+          ]
+        },
+        {
+          "id": "401878768",
+          "league": "eng.1",
+          "league_label": "EPL",
+          "name": "Everton at Arsenal",
+          "short_name": "EVE @ ARS",
+          "date": "2026-10-24T14:00Z",
+          "status": "upcoming",
+          "three_way": true,
+          "home": {
+            "abbr": "ARS",
+            "name": "Arsenal"
+          },
+          "away": {
+            "abbr": "EVE",
+            "name": "Everton"
+          },
+          "books": [
+            {
+              "provider": "DraftKings",
+              "details": "ARS -230",
+              "home": {
+                "ml": "-230",
+                "spread_odds": "+125",
+                "open": {
+                  "ml": "-265",
+                  "spread_odds": "+100",
+                  "point_spread": "-1.5"
+                },
+                "current": {
+                  "ml": "-230",
+                  "spread_odds": "+125",
+                  "point_spread": "-1.5"
+                }
+              },
+              "away": {
+                "ml": "+650",
+                "spread_odds": "-170",
+                "open": {
+                  "ml": "+750",
+                  "spread_odds": "-150",
+                  "point_spread": "+1.5"
+                },
+                "current": {
+                  "ml": "+650",
+                  "spread_odds": "-170",
+                  "point_spread": "+1.5"
+                }
+              },
+              "spread": -1.5,
+              "total": 2.5,
+              "over_odds": "-130",
+              "under_odds": "+105"
+            },
+            {
+              "provider": "Bet 365",
+              "details": null,
+              "spread": null,
+              "total": null,
+              "over_odds": null,
+              "under_odds": null
+            }
+          ]
+        },
+        {
+          "id": "401879255",
+          "league": "eng.1",
+          "league_label": "EPL",
+          "name": "Fulham at Coventry City",
+          "short_name": "FUL @ COV",
+          "date": "2026-10-24T14:00Z",
+          "status": "upcoming",
+          "three_way": true,
+          "home": {
+            "abbr": "COV",
+            "name": "Coventry City"
+          },
+          "away": {
+            "abbr": "FUL",
+            "name": "Fulham"
+          },
+          "books": [
+            {
+              "provider": "DraftKings",
+              "details": "FUL +125",
+              "home": {
+                "ml": "+215",
+                "spread_odds": "-160",
+                "open": {
+                  "ml": "+190",
+                  "spread_odds": "-180",
+                  "point_spread": "+0.5"
+                },
+                "current": {
+                  "ml": "+215",
                   "spread_odds": "-160",
                   "point_spread": "+0.5"
                 }
@@ -1856,16 +2025,11 @@
                 "ml": "+125",
                 "spread_odds": "+115",
                 "open": {
-                  "ml": "+140",
-                  "spread_odds": "+120",
-                  "point_spread": "-0.5"
-                },
-                "current": {
-                  "ml": "+125",
+                  "ml": "+130",
                   "spread_odds": "+115",
                   "point_spread": "-0.5"
                 },
-                "close": {
+                "current": {
                   "ml": "+125",
                   "spread_odds": "+115",
                   "point_spread": "-0.5"
@@ -1873,8 +2037,72 @@
               },
               "spread": 0.5,
               "total": 2.5,
-              "over_odds": "-115",
-              "under_odds": "-105"
+              "over_odds": "-135",
+              "under_odds": "+110"
+            },
+            {
+              "provider": "Bet 365",
+              "details": null,
+              "spread": null,
+              "total": null,
+              "over_odds": null,
+              "under_odds": null
+            }
+          ]
+        },
+        {
+          "id": "401878767",
+          "league": "eng.1",
+          "league_label": "EPL",
+          "name": "Tottenham Hotspur at Chelsea",
+          "short_name": "TOT @ CHE",
+          "date": "2026-10-24T16:30Z",
+          "status": "upcoming",
+          "three_way": true,
+          "home": {
+            "abbr": "CHE",
+            "name": "Chelsea"
+          },
+          "away": {
+            "abbr": "TOT",
+            "name": "Tottenham Hotspur"
+          },
+          "books": [
+            {
+              "provider": "DraftKings",
+              "details": "CHE -105",
+              "home": {
+                "ml": "-105",
+                "spread_odds": "-115",
+                "open": {
+                  "ml": "-135",
+                  "spread_odds": "-145",
+                  "point_spread": "-0.5"
+                },
+                "current": {
+                  "ml": "-105",
+                  "spread_odds": "-115",
+                  "point_spread": "-0.5"
+                }
+              },
+              "away": {
+                "ml": "+275",
+                "spread_odds": "-120",
+                "open": {
+                  "ml": "+310",
+                  "spread_odds": "+100",
+                  "point_spread": "+0.5"
+                },
+                "current": {
+                  "ml": "+275",
+                  "spread_odds": "-120",
+                  "point_spread": "+0.5"
+                }
+              },
+              "spread": -0.5,
+              "total": 2.5,
+              "over_odds": "-175",
+              "under_odds": "+140"
             },
             {
               "provider": "Bet 365",
