@@ -20,24 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401892581:home:20261026T033733Z",
-      "placed_at": "2026-10-26T03:37:19Z",
-      "event_id": "401892581",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "MIN @ VAN",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "VAN",
-      "line": null,
-      "odds_american": "+800",
-      "odds_decimal": 9.0,
-      "stake": 18.75,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.2298,
-      "edge": 0.1187
     }
   ],
   "settled": [
@@ -2455,6 +2437,27 @@
       "graded_at": "2026-10-26T03:37:31Z",
       "final_score": "DET 106 @ PHI 93",
       "profit": -19.14
+    },
+    {
+      "id": "401892581:home:20261026T033733Z",
+      "placed_at": "2026-10-26T03:37:19Z",
+      "event_id": "401892581",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "MIN @ VAN",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "VAN",
+      "line": null,
+      "odds_american": "+800",
+      "odds_decimal": 9.0,
+      "stake": 18.75,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.2298,
+      "edge": 0.1187,
+      "graded_at": "2026-10-26T09:35:26Z",
+      "final_score": "MIN 4 @ VAN 2",
+      "profit": -18.75
     }
   ],
   "equity": [
@@ -2893,21 +2896,17 @@
     {
       "t": "2026-10-26T03:37:33Z",
       "bankroll": 918.86
+    },
+    {
+      "t": "2026-10-26T09:35:27Z",
+      "bankroll": 918.86
     }
   ],
   "consensus": {
     "401873009": {
-      "h": 0.3508771929824561,
-      "a": 0.6923076923076923
-    },
-    "401908044": {
-      "h": 0.5454545454545454,
-      "a": 0.5024875621890548
-    },
-    "401892581": {
-      "h": 0.24074074074074073,
-      "a": 0.8066538090646094
+      "h": 0.35714285714285715,
+      "a": 0.6855345911949685
     }
   },
-  "updated_at": "2026-10-26T03:37:33Z"
+  "updated_at": "2026-10-26T09:35:27Z"
 }
