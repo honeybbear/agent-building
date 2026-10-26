@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 937.61,
+  "bankroll": 918.86,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -22,58 +22,22 @@
       "edge": 0.0434
     },
     {
-      "id": "401909864:away:20261025T235740Z",
-      "placed_at": "2026-10-25T23:57:29Z",
-      "event_id": "401909864",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "TOR @ MIN",
+      "id": "401892581:home:20261026T033733Z",
+      "placed_at": "2026-10-26T03:37:19Z",
+      "event_id": "401892581",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "MIN @ VAN",
       "market": "moneyline",
-      "side": "away",
-      "side_abbr": "TOR",
-      "line": null,
-      "odds_american": "+425",
-      "odds_decimal": 5.25,
-      "stake": 19.92,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.2894,
-      "edge": 0.0989
-    },
-    {
-      "id": "401909865:away:20261025T235740Z",
-      "placed_at": "2026-10-25T23:57:29Z",
-      "event_id": "401909865",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "LAC @ OKC",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "LAC",
+      "side": "home",
+      "side_abbr": "VAN",
       "line": null,
       "odds_american": "+800",
       "odds_decimal": 9.0,
-      "stake": 19.53,
-      "book": "Draft Kings",
-      "fair_prob": 0.1541,
-      "edge": 0.043
-    },
-    {
-      "id": "401909866:home:20261025T235740Z",
-      "placed_at": "2026-10-25T23:57:29Z",
-      "event_id": "401909866",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "DET @ PHI",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "PHI",
-      "line": null,
-      "odds_american": "+300",
-      "odds_decimal": 4.0,
-      "stake": 19.14,
+      "stake": 18.75,
       "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.3457,
-      "edge": 0.0957
+      "fair_prob": 0.2298,
+      "edge": 0.1187
     }
   ],
   "settled": [
@@ -2428,6 +2392,69 @@
       "graded_at": "2026-10-25T23:57:39Z",
       "final_score": "LAL 132 @ UTAH 123",
       "profit": -20.33
+    },
+    {
+      "id": "401909864:away:20261025T235740Z",
+      "placed_at": "2026-10-25T23:57:29Z",
+      "event_id": "401909864",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "TOR @ MIN",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "TOR",
+      "line": null,
+      "odds_american": "+425",
+      "odds_decimal": 5.25,
+      "stake": 19.92,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.2894,
+      "edge": 0.0989,
+      "graded_at": "2026-10-26T03:37:31Z",
+      "final_score": "TOR 94 @ MIN 117",
+      "profit": -19.92
+    },
+    {
+      "id": "401909865:away:20261025T235740Z",
+      "placed_at": "2026-10-25T23:57:29Z",
+      "event_id": "401909865",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "LAC @ OKC",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "LAC",
+      "line": null,
+      "odds_american": "+800",
+      "odds_decimal": 9.0,
+      "stake": 19.53,
+      "book": "Draft Kings",
+      "fair_prob": 0.1541,
+      "edge": 0.043,
+      "graded_at": "2026-10-26T03:37:31Z",
+      "final_score": "LAC 101 @ OKC 108",
+      "profit": -19.53
+    },
+    {
+      "id": "401909866:home:20261025T235740Z",
+      "placed_at": "2026-10-25T23:57:29Z",
+      "event_id": "401909866",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "DET @ PHI",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "PHI",
+      "line": null,
+      "odds_american": "+300",
+      "odds_decimal": 4.0,
+      "stake": 19.14,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.3457,
+      "edge": 0.0957,
+      "graded_at": "2026-10-26T03:37:31Z",
+      "final_score": "DET 106 @ PHI 93",
+      "profit": -19.14
     }
   ],
   "equity": [
@@ -2862,61 +2889,25 @@
     {
       "t": "2026-10-25T23:57:40Z",
       "bankroll": 937.61
+    },
+    {
+      "t": "2026-10-26T03:37:33Z",
+      "bankroll": 918.86
     }
   ],
   "consensus": {
-    "401873022": {
-      "h": 0.6183206106870229,
-      "a": 0.423728813559322
-    },
     "401873009": {
       "h": 0.3508771929824561,
       "a": 0.6923076923076923
     },
-    "401909862": {
-      "h": 0.35714285714285715,
-      "a": 0.6855345911949685
-    },
-    "401909863": {
-      "h": 0.7429136453526697,
-      "a": 0.30117753623188404
-    },
-    "401909864": {
-      "h": 0.7453634085213032,
-      "a": 0.3035714285714286
-    },
-    "401909865": {
-      "h": 0.8885941644562334,
-      "a": 0.16193853427895982
-    },
-    "401909866": {
-      "h": 0.3630952380952381,
-      "a": 0.6873706004140787
-    },
-    "401909867": {
-      "h": 0.423728813559322,
-      "a": 0.6183206106870229
-    },
     "401908044": {
-      "h": 0.5412844036697247,
-      "a": 0.504950495049505
-    },
-    "401892579": {
-      "h": 0.6277110098079846,
-      "a": 0.4241231209735147
-    },
-    "401891807": {
-      "h": 0.49504950495049505,
-      "a": 0.5495495495495496
-    },
-    "401892580": {
-      "h": 0.3389830508474576,
-      "a": 0.7041420118343196
+      "h": 0.5454545454545454,
+      "a": 0.5024875621890548
     },
     "401892581": {
-      "h": 0.37037037037037035,
-      "a": 0.6721311475409836
+      "h": 0.24074074074074073,
+      "a": 0.8066538090646094
     }
   },
-  "updated_at": "2026-10-25T23:57:40Z"
+  "updated_at": "2026-10-26T03:37:33Z"
 }
