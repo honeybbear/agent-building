@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 790.5,
+  "bankroll": 868.05,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -20,96 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401909886:home:20261029T023632Z",
-      "placed_at": "2026-10-29T02:36:18Z",
-      "event_id": "401909886",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "NY @ CHI",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "CHI",
-      "line": null,
-      "odds_american": "+2500",
-      "odds_decimal": 26.0,
-      "stake": 17.49,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.1671,
-      "edge": 0.1286
-    },
-    {
-      "id": "401909888:home:20261029T023632Z",
-      "placed_at": "2026-10-29T02:36:18Z",
-      "event_id": "401909888",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "GS @ MIN",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "MIN",
-      "line": null,
-      "odds_american": "+1600",
-      "odds_decimal": 17.0,
-      "stake": 17.14,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.321,
-      "edge": 0.2621
-    },
-    {
-      "id": "401909891:home:20261029T023632Z",
-      "placed_at": "2026-10-29T02:36:18Z",
-      "event_id": "401909891",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "OKC @ DAL",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "DAL",
-      "line": null,
-      "odds_american": "+160",
-      "odds_decimal": 2.6,
-      "stake": 16.8,
-      "book": "DraftKings",
-      "fair_prob": 0.4815,
-      "edge": 0.0969
-    },
-    {
-      "id": "401892597:away:20261029T023632Z",
-      "placed_at": "2026-10-29T02:36:18Z",
-      "event_id": "401892597",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "CGY @ EDM",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "CGY",
-      "line": null,
-      "odds_american": "+950",
-      "odds_decimal": 10.5,
-      "stake": 16.46,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.234,
-      "edge": 0.1388
-    },
-    {
-      "id": "401892599:home:20261029T023632Z",
-      "placed_at": "2026-10-29T02:36:18Z",
-      "event_id": "401892599",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "TOR @ SEA",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "SEA",
-      "line": null,
-      "odds_american": "+110",
-      "odds_decimal": 2.1,
-      "stake": 16.13,
-      "book": "DraftKings",
-      "fair_prob": 0.537,
-      "edge": 0.0608
     }
   ],
   "settled": [
@@ -2737,6 +2647,111 @@
       "graded_at": "2026-10-28T06:33:04Z",
       "final_score": "NJ 5 @ DAL 1",
       "profit": 15.33
+    },
+    {
+      "id": "401909886:home:20261029T023632Z",
+      "placed_at": "2026-10-29T02:36:18Z",
+      "event_id": "401909886",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "NY @ CHI",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "CHI",
+      "line": null,
+      "odds_american": "+2500",
+      "odds_decimal": 26.0,
+      "stake": 17.49,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.1671,
+      "edge": 0.1286,
+      "graded_at": "2026-10-29T09:13:58Z",
+      "final_score": "NY 133 @ CHI 127",
+      "profit": -17.49
+    },
+    {
+      "id": "401909888:home:20261029T023632Z",
+      "placed_at": "2026-10-29T02:36:18Z",
+      "event_id": "401909888",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "GS @ MIN",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "MIN",
+      "line": null,
+      "odds_american": "+1600",
+      "odds_decimal": 17.0,
+      "stake": 17.14,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.321,
+      "edge": 0.2621,
+      "graded_at": "2026-10-29T09:13:58Z",
+      "final_score": "GS 119 @ MIN 114",
+      "profit": -17.14
+    },
+    {
+      "id": "401909891:home:20261029T023632Z",
+      "placed_at": "2026-10-29T02:36:18Z",
+      "event_id": "401909891",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "OKC @ DAL",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "DAL",
+      "line": null,
+      "odds_american": "+160",
+      "odds_decimal": 2.6,
+      "stake": 16.8,
+      "book": "DraftKings",
+      "fair_prob": 0.4815,
+      "edge": 0.0969,
+      "graded_at": "2026-10-29T09:13:58Z",
+      "final_score": "OKC 96 @ DAL 120",
+      "profit": 26.88
+    },
+    {
+      "id": "401892597:away:20261029T023632Z",
+      "placed_at": "2026-10-29T02:36:18Z",
+      "event_id": "401892597",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "CGY @ EDM",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "CGY",
+      "line": null,
+      "odds_american": "+950",
+      "odds_decimal": 10.5,
+      "stake": 16.46,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.234,
+      "edge": 0.1388,
+      "graded_at": "2026-10-29T09:13:58Z",
+      "final_score": "CGY 0 @ EDM 4",
+      "profit": -16.46
+    },
+    {
+      "id": "401892599:home:20261029T023632Z",
+      "placed_at": "2026-10-29T02:36:18Z",
+      "event_id": "401892599",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "TOR @ SEA",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "SEA",
+      "line": null,
+      "odds_american": "+110",
+      "odds_decimal": 2.1,
+      "stake": 16.13,
+      "book": "DraftKings",
+      "fair_prob": 0.537,
+      "edge": 0.0608,
+      "graded_at": "2026-10-29T09:13:58Z",
+      "final_score": "TOR 4 @ SEA 5",
+      "profit": 17.74
     }
   ],
   "equity": [
@@ -3231,6 +3246,10 @@
     {
       "t": "2026-10-29T02:36:32Z",
       "bankroll": 790.5
+    },
+    {
+      "t": "2026-10-29T09:14:00Z",
+      "bankroll": 868.05
     }
   ],
   "consensus": {
@@ -3243,8 +3262,8 @@
       "a": 0.40816326530612246
     },
     "401873031": {
-      "h": 0.8387096774193549,
-      "a": 0.20408163265306123
+      "h": 0.8333333333333334,
+      "a": 0.20833333333333334
     },
     "401873024": {
       "h": 0.7647058823529411,
@@ -3259,8 +3278,8 @@
       "a": 0.4878048780487805
     },
     "401873027": {
-      "h": 0.6575342465753424,
-      "a": 0.38461538461538464
+      "h": 0.6491228070175439,
+      "a": 0.3937007874015748
     },
     "401873025": {
       "h": 0.5867768595041323,
@@ -3271,8 +3290,8 @@
       "a": 0.2127659574468085
     },
     "401873032": {
-      "h": 0.7354497354497355,
-      "a": 0.3076923076923077
+      "h": 0.7402597402597403,
+      "a": 0.30303030303030304
     },
     "401873033": {
       "h": 0.504950495049505,
@@ -3289,38 +3308,6 @@
     "401873036": {
       "h": 0.6240601503759399,
       "a": 0.4166666666666667
-    },
-    "401909886": {
-      "h": 0.17307692307692307,
-      "a": 0.8627743726753627
-    },
-    "401909888": {
-      "h": 0.3333333333333333,
-      "a": 0.7051961823966065
-    },
-    "401909890": {
-      "h": 0.19111111111111112,
-      "a": 0.857843137254902
-    },
-    "401909891": {
-      "h": 0.5071225071225072,
-      "a": 0.5461584276354973
-    },
-    "401908046": {
-      "h": 0.45045045045045046,
-      "a": 0.5780590717299579
-    },
-    "401892597": {
-      "h": 0.8001711596063329,
-      "a": 0.24446944131983503
-    },
-    "401892598": {
-      "h": 0.6060794044665012,
-      "a": 0.44642857142857145
-    },
-    "401892599": {
-      "h": 0.564484126984127,
-      "a": 0.4866903283052351
     },
     "401879248": {
       "h": 0.5454545454545454,
@@ -3343,8 +3330,8 @@
       "a": 0.37735849056603776
     },
     "401879245": {
-      "h": 0.6078431372549019,
-      "a": 0.2127659574468085
+      "h": 0.6,
+      "a": 0.21739130434782608
     },
     "401878761": {
       "h": 0.6491228070175439,
@@ -3355,5 +3342,5 @@
       "a": 0.2702702702702703
     }
   },
-  "updated_at": "2026-10-29T02:36:32Z"
+  "updated_at": "2026-10-29T09:14:00Z"
 }
