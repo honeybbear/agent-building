@@ -20,78 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401909899:away:20261101T014718Z",
-      "placed_at": "2026-11-01T01:47:02Z",
-      "event_id": "401909899",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "SAC @ MEM",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "SAC",
-      "line": null,
-      "odds_american": "+1700",
-      "odds_decimal": 18.0,
-      "stake": 18.66,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.1682,
-      "edge": 0.1127
-    },
-    {
-      "id": "401909902:away:20261101T014718Z",
-      "placed_at": "2026-11-01T01:47:02Z",
-      "event_id": "401909902",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "OKC @ HOU",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "OKC",
-      "line": null,
-      "odds_american": "+380",
-      "odds_decimal": 4.8,
-      "stake": 18.29,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.3163,
-      "edge": 0.108
-    },
-    {
-      "id": "401892620:away:20261101T014718Z",
-      "placed_at": "2026-11-01T01:47:02Z",
-      "event_id": "401892620",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "PIT @ MTL",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "PIT",
-      "line": null,
-      "odds_american": "+1500",
-      "odds_decimal": 16.0,
-      "stake": 17.92,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.27,
-      "edge": 0.2075
-    },
-    {
-      "id": "401892622:away:20261101T014718Z",
-      "placed_at": "2026-11-01T01:47:02Z",
-      "event_id": "401892622",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "CBJ @ DAL",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "CBJ",
-      "line": null,
-      "odds_american": "+900",
-      "odds_decimal": 10.0,
-      "stake": 17.57,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.236,
-      "edge": 0.136
     }
   ],
   "settled": [
@@ -3034,6 +2962,90 @@
       "graded_at": "2026-11-01T01:47:17Z",
       "final_score": "BUF 3 @ LA 2",
       "profit": -19.04
+    },
+    {
+      "id": "401909899:away:20261101T014718Z",
+      "placed_at": "2026-11-01T01:47:02Z",
+      "event_id": "401909899",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "SAC @ MEM",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "SAC",
+      "line": null,
+      "odds_american": "+1700",
+      "odds_decimal": 18.0,
+      "stake": 18.66,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.1682,
+      "edge": 0.1127,
+      "graded_at": "2026-11-01T08:35:43Z",
+      "final_score": "SAC 105 @ MEM 136",
+      "profit": -18.66
+    },
+    {
+      "id": "401909902:away:20261101T014718Z",
+      "placed_at": "2026-11-01T01:47:02Z",
+      "event_id": "401909902",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "OKC @ HOU",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "OKC",
+      "line": null,
+      "odds_american": "+380",
+      "odds_decimal": 4.8,
+      "stake": 18.29,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.3163,
+      "edge": 0.108,
+      "graded_at": "2026-11-01T08:35:43Z",
+      "final_score": "OKC 98 @ HOU 119",
+      "profit": -18.29
+    },
+    {
+      "id": "401892620:away:20261101T014718Z",
+      "placed_at": "2026-11-01T01:47:02Z",
+      "event_id": "401892620",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "PIT @ MTL",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "PIT",
+      "line": null,
+      "odds_american": "+1500",
+      "odds_decimal": 16.0,
+      "stake": 17.92,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.27,
+      "edge": 0.2075,
+      "graded_at": "2026-11-01T08:35:43Z",
+      "final_score": "PIT 4 @ MTL 5",
+      "profit": -17.92
+    },
+    {
+      "id": "401892622:away:20261101T014718Z",
+      "placed_at": "2026-11-01T01:47:02Z",
+      "event_id": "401892622",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "CBJ @ DAL",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "CBJ",
+      "line": null,
+      "odds_american": "+900",
+      "odds_decimal": 10.0,
+      "stake": 17.57,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.236,
+      "edge": 0.136,
+      "graded_at": "2026-11-01T08:35:43Z",
+      "final_score": "CBJ 1 @ DAL 3",
+      "profit": -17.57
     }
   ],
   "equity": [
@@ -3584,20 +3596,24 @@
     {
       "t": "2026-11-01T01:47:18Z",
       "bankroll": 860.71
+    },
+    {
+      "t": "2026-11-01T08:35:44Z",
+      "bankroll": 860.71
     }
   ],
   "consensus": {
     "401873026": {
-      "h": 0.6240601503759399,
-      "a": 0.4166666666666667
+      "h": 0.6296296296296297,
+      "a": 0.4132231404958678
     },
     "401873031": {
-      "h": 0.8709677419354839,
-      "a": 0.1694915254237288
+      "h": 0.8823529411764706,
+      "a": 0.16
     },
     "401873024": {
-      "h": 0.7560975609756098,
-      "a": 0.2857142857142857
+      "h": 0.7647058823529411,
+      "a": 0.2777777777777778
     },
     "401873030": {
       "h": 0.6296296296296297,
@@ -3612,24 +3628,24 @@
       "a": 0.38461538461538464
     },
     "401873025": {
-      "h": 0.5652173913043478,
-      "a": 0.47619047619047616
+      "h": 0.5555555555555556,
+      "a": 0.4878048780487805
     },
     "401873028": {
-      "h": 0.8333333333333334,
-      "a": 0.20833333333333334
+      "h": 0.8290598290598291,
+      "a": 0.2127659574468085
     },
     "401873032": {
-      "h": 0.726027397260274,
-      "a": 0.31746031746031744
+      "h": 0.7206703910614525,
+      "a": 0.3225806451612903
     },
     "401873033": {
-      "h": 0.504950495049505,
-      "a": 0.5412844036697247
+      "h": 0.5121951219512195,
+      "a": 0.5348837209302325
     },
     "401873034": {
-      "h": 0.2857142857142857,
-      "a": 0.7560975609756098
+      "h": 0.2702702702702703,
+      "a": 0.7727272727272727
     },
     "401873035": {
       "h": 0.7206703910614525,
@@ -3639,34 +3655,10 @@
       "h": 0.6240601503759399,
       "a": 0.4166666666666667
     },
-    "401909899": {
-      "h": 0.864567937727855,
-      "a": 0.17483660130718953
-    },
-    "401909900": {
-      "h": 0.29850746268656714,
-      "a": 0.7435897435897436
-    },
-    "401909901": {
-      "h": 0.8592592592592593,
-      "a": 0.19047619047619047
-    },
-    "401909902": {
-      "h": 0.7164653528289893,
-      "a": 0.3314393939393939
-    },
-    "401892620": {
-      "h": 0.7605321507760532,
-      "a": 0.28125
-    },
-    "401892622": {
-      "h": 0.7989203778677463,
-      "a": 0.24685039370078743
-    },
-    "401892623": {
-      "h": 0.7894736842105263,
-      "a": 0.25316455696202533
+    "401879246": {
+      "h": 0.3448275862068966,
+      "a": 0.4
     }
   },
-  "updated_at": "2026-11-01T01:47:18Z"
+  "updated_at": "2026-11-01T08:35:44Z"
 }
