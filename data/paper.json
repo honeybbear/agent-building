@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 911.32,
+  "bankroll": 1065.14,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -22,58 +22,22 @@
       "edge": 0.0434
     },
     {
-      "id": "401873033:home:20261101T234345Z",
-      "placed_at": "2026-11-01T23:43:36Z",
-      "event_id": "401873033",
-      "league": "nfl",
-      "league_label": "NFL",
-      "matchup": "KC @ DEN",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "DEN",
-      "line": null,
-      "odds_american": "+581",
-      "odds_decimal": 6.81,
-      "stake": 19.37,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.3237,
-      "edge": 0.1768
-    },
-    {
-      "id": "401909904:away:20261101T234345Z",
-      "placed_at": "2026-11-01T23:43:36Z",
-      "event_id": "401909904",
+      "id": "401909906:away:20261102T035624Z",
+      "placed_at": "2026-11-02T03:56:12Z",
+      "event_id": "401909906",
       "league": "nba",
       "league_label": "NBA",
-      "matchup": "BKN @ IND",
+      "matchup": "TOR @ LAL",
       "market": "moneyline",
       "side": "away",
-      "side_abbr": "BKN",
+      "side_abbr": "TOR",
       "line": null,
-      "odds_american": "+130",
-      "odds_decimal": 2.3,
-      "stake": 18.98,
-      "book": "DraftKings",
-      "fair_prob": 0.5628,
-      "edge": 0.128
-    },
-    {
-      "id": "401892627:home:20261101T234345Z",
-      "placed_at": "2026-11-01T23:43:36Z",
-      "event_id": "401892627",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "EDM @ NYR",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "NYR",
-      "line": null,
-      "odds_american": "+310",
-      "odds_decimal": 4.1,
-      "stake": 18.6,
+      "odds_american": "+2000",
+      "odds_decimal": 21.0,
+      "stake": 21.74,
       "book": "DraftKings - Live Odds",
-      "fair_prob": 0.38,
-      "edge": 0.1361
+      "fair_prob": 0.2218,
+      "edge": 0.1741
     }
   ],
   "settled": [
@@ -3226,6 +3190,69 @@
       "graded_at": "2026-11-01T23:43:44Z",
       "final_score": "ATL 0 @ TB 16",
       "profit": -15.56
+    },
+    {
+      "id": "401873033:home:20261101T234345Z",
+      "placed_at": "2026-11-01T23:43:36Z",
+      "event_id": "401873033",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "KC @ DEN",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "DEN",
+      "line": null,
+      "odds_american": "+581",
+      "odds_decimal": 6.81,
+      "stake": 19.37,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.3237,
+      "edge": 0.1768,
+      "graded_at": "2026-11-02T03:56:22Z",
+      "final_score": "KC 24 @ DEN 28",
+      "profit": 112.54
+    },
+    {
+      "id": "401909904:away:20261101T234345Z",
+      "placed_at": "2026-11-01T23:43:36Z",
+      "event_id": "401909904",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "BKN @ IND",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "BKN",
+      "line": null,
+      "odds_american": "+130",
+      "odds_decimal": 2.3,
+      "stake": 18.98,
+      "book": "DraftKings",
+      "fair_prob": 0.5628,
+      "edge": 0.128,
+      "graded_at": "2026-11-02T03:56:22Z",
+      "final_score": "BKN 98 @ IND 90",
+      "profit": 24.67
+    },
+    {
+      "id": "401892627:home:20261101T234345Z",
+      "placed_at": "2026-11-01T23:43:36Z",
+      "event_id": "401892627",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "EDM @ NYR",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "NYR",
+      "line": null,
+      "odds_american": "+310",
+      "odds_decimal": 4.1,
+      "stake": 18.6,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.38,
+      "edge": 0.1361,
+      "graded_at": "2026-11-02T03:56:22Z",
+      "final_score": "EDM 4 @ NYR 1",
+      "profit": -18.6
     }
   ],
   "equity": [
@@ -3792,49 +3819,25 @@
     {
       "t": "2026-11-01T23:43:45Z",
       "bankroll": 911.32
+    },
+    {
+      "t": "2026-11-02T03:56:24Z",
+      "bankroll": 1065.14
     }
   ],
   "consensus": {
-    "401873032": {
-      "h": 0.7354497354497355,
-      "a": 0.3076923076923077
-    },
-    "401873033": {
-      "h": 0.34086329952532185,
-      "a": 0.7122379118528027
-    },
-    "401873034": {
-      "h": 0.2649122807017544,
-      "a": 0.7880388558127043
-    },
     "401873035": {
-      "h": 0.7354497354497355,
-      "a": 0.3076923076923077
+      "h": 0.7262528047868362,
+      "a": 0.32786885245901637
     },
     "401873036": {
-      "h": 0.6240601503759399,
-      "a": 0.4166666666666667
-    },
-    "401909904": {
-      "h": 0.46017156862745096,
-      "a": 0.592391304347826
-    },
-    "401909905": {
-      "h": 0.5555555555555556,
-      "a": 0.4878048780487805
+      "h": 0.6296296296296297,
+      "a": 0.4132231404958678
     },
     "401909906": {
-      "h": 0.6078431372549019,
-      "a": 0.43478260869565216
-    },
-    "401892627": {
-      "h": 0.3997289972899729,
-      "a": 0.6521593197583352
-    },
-    "401892628": {
-      "h": 0.504950495049505,
-      "a": 0.5412844036697247
+      "h": 0.808641975308642,
+      "a": 0.2304210940574577
     }
   },
-  "updated_at": "2026-11-01T23:43:45Z"
+  "updated_at": "2026-11-02T03:56:24Z"
 }
