@@ -20,24 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401892681:home:20261110T044256Z",
-      "placed_at": "2026-11-10T04:42:41Z",
-      "event_id": "401892681",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "PHI @ VAN",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "VAN",
-      "line": null,
-      "odds_american": "+1300",
-      "odds_decimal": 14.0,
-      "stake": 19.59,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.2526,
-      "edge": 0.1811
     }
   ],
   "settled": [
@@ -3946,6 +3928,27 @@
       "graded_at": "2026-11-09T13:10:52Z",
       "final_score": "MIA 114 @ SAC 108",
       "profit": -19.99
+    },
+    {
+      "id": "401892681:home:20261110T044256Z",
+      "placed_at": "2026-11-10T04:42:41Z",
+      "event_id": "401892681",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "PHI @ VAN",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "VAN",
+      "line": null,
+      "odds_american": "+1300",
+      "odds_decimal": 14.0,
+      "stake": 19.59,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.2526,
+      "edge": 0.1811,
+      "graded_at": "2026-11-10T13:12:19Z",
+      "final_score": "PHI 3 @ VAN 1",
+      "profit": -19.59
     }
   ],
   "equity": [
@@ -4640,21 +4643,12 @@
     {
       "t": "2026-11-10T04:42:56Z",
       "bankroll": 959.69
+    },
+    {
+      "t": "2026-11-10T13:12:21Z",
+      "bankroll": 959.69
     }
   ],
-  "consensus": {
-    "401909959": {
-      "h": 0.8442367601246106,
-      "a": 0.19646365422396855
-    },
-    "401892681": {
-      "h": 0.262987012987013,
-      "a": 0.778236914600551
-    },
-    "401892682": {
-      "h": 0.45454545454545453,
-      "a": 0.5867768595041323
-    }
-  },
-  "updated_at": "2026-11-10T04:42:56Z"
+  "consensus": {},
+  "updated_at": "2026-11-10T13:12:21Z"
 }
