@@ -20,60 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401909970:home:20261112T031305Z",
-      "placed_at": "2026-11-12T03:12:54Z",
-      "event_id": "401909970",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "DEN @ MEM",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "MEM",
-      "line": null,
-      "odds_american": "+475",
-      "odds_decimal": 5.75,
-      "stake": 18.07,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.285,
-      "edge": 0.1111
-    },
-    {
-      "id": "401909974:away:20261112T031305Z",
-      "placed_at": "2026-11-12T03:12:54Z",
-      "event_id": "401909974",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "GS @ HOU",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "GS",
-      "line": null,
-      "odds_american": "+425",
-      "odds_decimal": 5.25,
-      "stake": 17.7,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.247,
-      "edge": 0.0565
-    },
-    {
-      "id": "401892691:home:20261112T031305Z",
-      "placed_at": "2026-11-12T03:12:54Z",
-      "event_id": "401892691",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "NYR @ CGY",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "CGY",
-      "line": null,
-      "odds_american": "+420",
-      "odds_decimal": 5.2,
-      "stake": 17.35,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.3036,
-      "edge": 0.1113
     }
   ],
   "settled": [
@@ -4066,6 +4012,69 @@
       "graded_at": "2026-11-11T07:35:51Z",
       "final_score": "NJ 2 @ WPG 4",
       "profit": -18.43
+    },
+    {
+      "id": "401909970:home:20261112T031305Z",
+      "placed_at": "2026-11-12T03:12:54Z",
+      "event_id": "401909970",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "DEN @ MEM",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "MEM",
+      "line": null,
+      "odds_american": "+475",
+      "odds_decimal": 5.75,
+      "stake": 18.07,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.285,
+      "edge": 0.1111,
+      "graded_at": "2026-11-12T11:37:37Z",
+      "final_score": "DEN 123 @ MEM 118",
+      "profit": -18.07
+    },
+    {
+      "id": "401909974:away:20261112T031305Z",
+      "placed_at": "2026-11-12T03:12:54Z",
+      "event_id": "401909974",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "GS @ HOU",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "GS",
+      "line": null,
+      "odds_american": "+425",
+      "odds_decimal": 5.25,
+      "stake": 17.7,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.247,
+      "edge": 0.0565,
+      "graded_at": "2026-11-12T11:37:37Z",
+      "final_score": "GS 108 @ HOU 115",
+      "profit": -17.7
+    },
+    {
+      "id": "401892691:home:20261112T031305Z",
+      "placed_at": "2026-11-12T03:12:54Z",
+      "event_id": "401892691",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "NYR @ CGY",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "CGY",
+      "line": null,
+      "odds_american": "+420",
+      "odds_decimal": 5.2,
+      "stake": 17.35,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.3036,
+      "edge": 0.1113,
+      "graded_at": "2026-11-12T11:37:37Z",
+      "final_score": "NYR 3 @ CGY 1",
+      "profit": -17.35
     }
   ],
   "equity": [
@@ -4788,12 +4797,16 @@
     {
       "t": "2026-11-12T03:13:05Z",
       "bankroll": 850.14
+    },
+    {
+      "t": "2026-11-12T11:37:38Z",
+      "bankroll": 850.14
     }
   ],
   "consensus": {
     "401873052": {
-      "h": 0.574468085106383,
-      "a": 0.4672897196261682
+      "h": 0.5867768595041323,
+      "a": 0.45454545454545453
     },
     "401873053": {
       "h": 0.5967741935483871,
@@ -4828,8 +4841,8 @@
       "a": 0.8148148148148148
     },
     "401873062": {
-      "h": 0.29850746268656714,
-      "a": 0.7435897435897436
+      "h": 0.29411764705882354,
+      "a": 0.7487437185929648
     },
     "401873061": {
       "h": 0.20408163265306123,
@@ -4846,55 +4859,7 @@
     "401873065": {
       "h": 0.6923076923076923,
       "a": 0.3508771929824561
-    },
-    "401909969": {
-      "h": 0.11904761904761904,
-      "a": 0.921875
-    },
-    "401909970": {
-      "h": 0.29882092851879144,
-      "a": 0.7496055893621816
-    },
-    "401909971": {
-      "h": 0.1388888888888889,
-      "a": 0.9029126213592233
-    },
-    "401909972": {
-      "h": 0.5867768595041323,
-      "a": 0.45454545454545453
-    },
-    "401909973": {
-      "h": 0.3724137931034483,
-      "a": 0.6779313876088069
-    },
-    "401909974": {
-      "h": 0.7900668576886343,
-      "a": 0.2591725214676034
-    },
-    "401909975": {
-      "h": 0.5951417004048583,
-      "a": 0.44642857142857145
-    },
-    "401892691": {
-      "h": 0.3193681318681319,
-      "a": 0.7325976230899831
-    },
-    "401892692": {
-      "h": 0.6621004566210045,
-      "a": 0.38915808600847973
-    },
-    "401892693": {
-      "h": 0.5865302642796248,
-      "a": 0.46739130434782605
-    },
-    "401892694": {
-      "h": 0.5789007092198581,
-      "a": 0.47174009790832216
-    },
-    "401892695": {
-      "h": 0.44642857142857145,
-      "a": 0.5967741935483871
     }
   },
-  "updated_at": "2026-11-12T03:13:05Z"
+  "updated_at": "2026-11-12T11:37:38Z"
 }
