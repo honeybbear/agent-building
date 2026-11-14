@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 739.18,
+  "bankroll": 844.59,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -20,78 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401909296:home:20261114T015621Z",
-      "placed_at": "2026-11-14T01:56:07Z",
-      "event_id": "401909296",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "NY @ IND",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "IND",
-      "line": null,
-      "odds_american": "+259",
-      "odds_decimal": 3.59,
-      "stake": 16.03,
-      "book": "DraftKings",
-      "fair_prob": 0.3593,
-      "edge": 0.0808
-    },
-    {
-      "id": "401909297:away:20261114T015621Z",
-      "placed_at": "2026-11-14T01:56:07Z",
-      "event_id": "401909297",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "MIL @ ORL",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "MIL",
-      "line": null,
-      "odds_american": "+1300",
-      "odds_decimal": 14.0,
-      "stake": 15.71,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.1459,
-      "edge": 0.0745
-    },
-    {
-      "id": "401909299:home:20261114T015621Z",
-      "placed_at": "2026-11-14T01:56:07Z",
-      "event_id": "401909299",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "ATL @ CHI",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "CHI",
-      "line": null,
-      "odds_american": "+211",
-      "odds_decimal": 3.11,
-      "stake": 15.39,
-      "book": "DraftKings",
-      "fair_prob": 0.3953,
-      "edge": 0.0737
-    },
-    {
-      "id": "401909300:home:20261114T015621Z",
-      "placed_at": "2026-11-14T01:56:07Z",
-      "event_id": "401909300",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "MEM @ NO",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "NO",
-      "line": null,
-      "odds_american": "+210",
-      "odds_decimal": 3.1,
-      "stake": 15.09,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.3546,
-      "edge": 0.032
     }
   ],
   "settled": [
@@ -4252,6 +4180,90 @@
       "graded_at": "2026-11-13T07:32:36Z",
       "final_score": "TB 3 @ CBJ 1",
       "profit": 17.25
+    },
+    {
+      "id": "401909296:home:20261114T015621Z",
+      "placed_at": "2026-11-14T01:56:07Z",
+      "event_id": "401909296",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "NY @ IND",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "IND",
+      "line": null,
+      "odds_american": "+259",
+      "odds_decimal": 3.59,
+      "stake": 16.03,
+      "book": "DraftKings",
+      "fair_prob": 0.3593,
+      "edge": 0.0808,
+      "graded_at": "2026-11-14T08:34:23Z",
+      "final_score": "NY 104 @ IND 106",
+      "profit": 41.52
+    },
+    {
+      "id": "401909297:away:20261114T015621Z",
+      "placed_at": "2026-11-14T01:56:07Z",
+      "event_id": "401909297",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "MIL @ ORL",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "MIL",
+      "line": null,
+      "odds_american": "+1300",
+      "odds_decimal": 14.0,
+      "stake": 15.71,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.1459,
+      "edge": 0.0745,
+      "graded_at": "2026-11-14T08:34:23Z",
+      "final_score": "MIL 99 @ ORL 107",
+      "profit": -15.71
+    },
+    {
+      "id": "401909299:home:20261114T015621Z",
+      "placed_at": "2026-11-14T01:56:07Z",
+      "event_id": "401909299",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "ATL @ CHI",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "CHI",
+      "line": null,
+      "odds_american": "+211",
+      "odds_decimal": 3.11,
+      "stake": 15.39,
+      "book": "DraftKings",
+      "fair_prob": 0.3953,
+      "edge": 0.0737,
+      "graded_at": "2026-11-14T08:34:23Z",
+      "final_score": "ATL 117 @ CHI 125",
+      "profit": 32.47
+    },
+    {
+      "id": "401909300:home:20261114T015621Z",
+      "placed_at": "2026-11-14T01:56:07Z",
+      "event_id": "401909300",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "MEM @ NO",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "NO",
+      "line": null,
+      "odds_american": "+210",
+      "odds_decimal": 3.1,
+      "stake": 15.09,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.3546,
+      "edge": 0.032,
+      "graded_at": "2026-11-14T08:34:23Z",
+      "final_score": "MEM 142 @ NO 111",
+      "profit": -15.09
     }
   ],
   "equity": [
@@ -5002,6 +5014,10 @@
     {
       "t": "2026-11-14T01:56:21Z",
       "bankroll": 739.18
+    },
+    {
+      "t": "2026-11-14T08:34:24Z",
+      "bankroll": 844.59
     }
   ],
   "consensus": {
@@ -5018,8 +5034,8 @@
       "a": 0.7041420118343196
     },
     "401873060": {
-      "h": 0.6183206106870229,
-      "a": 0.423728813559322
+      "h": 0.5967741935483871,
+      "a": 0.44642857142857145
     },
     "401873057": {
       "h": 0.16666666666666666,
@@ -5054,53 +5070,9 @@
       "a": 0.3937007874015748
     },
     "401873065": {
-      "h": 0.6923076923076923,
-      "a": 0.3508771929824561
-    },
-    "401909296": {
-      "h": 0.3773710041119512,
-      "a": 0.672901821060966
-    },
-    "401909297": {
-      "h": 0.8882686732868685,
-      "a": 0.15172356645674512
-    },
-    "401909298": {
-      "h": 0.6047091844690473,
-      "a": 0.4494949494949495
-    },
-    "401909299": {
-      "h": 0.4168692651556741,
-      "a": 0.6377217553688141
-    },
-    "401909300": {
-      "h": 0.37315472936030614,
-      "a": 0.6792901754733816
-    },
-    "401909301": {
-      "h": 0.921875,
-      "a": 0.11904761904761904
-    },
-    "401909302": {
-      "h": 0.8666666666666667,
-      "a": 0.17452006980802792
-    },
-    "401909303": {
-      "h": 0.21691973969631237,
-      "a": 0.823943661971831
-    },
-    "401909304": {
-      "h": 0.3021148036253776,
-      "a": 0.7389033942558747
-    },
-    "401892706": {
-      "h": 0.3508771929824561,
-      "a": 0.6923076923076923
-    },
-    "401892707": {
-      "h": 0.6296296296296297,
-      "a": 0.4132231404958678
+      "h": 0.6855345911949685,
+      "a": 0.35714285714285715
     }
   },
-  "updated_at": "2026-11-14T01:56:21Z"
+  "updated_at": "2026-11-14T08:34:24Z"
 }
