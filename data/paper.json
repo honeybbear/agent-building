@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 773.65,
+  "bankroll": 758.18,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -22,58 +22,22 @@
       "edge": 0.0434
     },
     {
-      "id": "401873063:home:20261115T234153Z",
-      "placed_at": "2026-11-15T23:41:38Z",
-      "event_id": "401873063",
-      "league": "nfl",
-      "league_label": "NFL",
-      "matchup": "SF @ DAL",
+      "id": "401892725:away:20261116T042301Z",
+      "placed_at": "2026-11-16T04:22:49Z",
+      "event_id": "401892725",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "NSH @ SJ",
       "market": "moneyline",
-      "side": "home",
-      "side_abbr": "DAL",
+      "side": "away",
+      "side_abbr": "NSH",
       "line": null,
-      "odds_american": "+630",
-      "odds_decimal": 7.3,
-      "stake": 16.44,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.2455,
-      "edge": 0.1085
-    },
-    {
-      "id": "401909986:home:20261115T234153Z",
-      "placed_at": "2026-11-15T23:41:38Z",
-      "event_id": "401909986",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "LAL @ PHX",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "PHX",
-      "line": null,
-      "odds_american": "+800",
-      "odds_decimal": 9.0,
-      "stake": 16.11,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.2565,
-      "edge": 0.1454
-    },
-    {
-      "id": "401909988:home:20261115T234153Z",
-      "placed_at": "2026-11-15T23:41:38Z",
-      "event_id": "401909988",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "SA @ UTAH",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "UTAH",
-      "line": null,
-      "odds_american": "+690",
-      "odds_decimal": 7.9,
-      "stake": 15.79,
-      "book": "Draft Kings",
-      "fair_prob": 0.1872,
-      "edge": 0.0607
+      "odds_american": "+3500",
+      "odds_decimal": 36.0,
+      "stake": 15.47,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.3178,
+      "edge": 0.29
     }
   ],
   "settled": [
@@ -4444,6 +4408,69 @@
       "graded_at": "2026-11-15T23:41:52Z",
       "final_score": "IND 124 @ PHI 131",
       "profit": -15.27
+    },
+    {
+      "id": "401873063:home:20261115T234153Z",
+      "placed_at": "2026-11-15T23:41:38Z",
+      "event_id": "401873063",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "SF @ DAL",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "DAL",
+      "line": null,
+      "odds_american": "+630",
+      "odds_decimal": 7.3,
+      "stake": 16.44,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.2455,
+      "edge": 0.1085,
+      "graded_at": "2026-11-16T04:22:59Z",
+      "final_score": "SF 46 @ DAL 40",
+      "profit": -16.44
+    },
+    {
+      "id": "401909986:home:20261115T234153Z",
+      "placed_at": "2026-11-15T23:41:38Z",
+      "event_id": "401909986",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "LAL @ PHX",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "PHX",
+      "line": null,
+      "odds_american": "+800",
+      "odds_decimal": 9.0,
+      "stake": 16.11,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.2565,
+      "edge": 0.1454,
+      "graded_at": "2026-11-16T04:22:59Z",
+      "final_score": "LAL 131 @ PHX 123",
+      "profit": -16.11
+    },
+    {
+      "id": "401909988:home:20261115T234153Z",
+      "placed_at": "2026-11-15T23:41:38Z",
+      "event_id": "401909988",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "SA @ UTAH",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "UTAH",
+      "line": null,
+      "odds_american": "+690",
+      "odds_decimal": 7.9,
+      "stake": 15.79,
+      "book": "Draft Kings",
+      "fair_prob": 0.1872,
+      "edge": 0.0607,
+      "graded_at": "2026-11-16T04:22:59Z",
+      "final_score": "SA 110 @ UTAH 102",
+      "profit": -15.79
     }
   ],
   "equity": [
@@ -5226,80 +5253,32 @@
     {
       "t": "2026-11-15T23:41:53Z",
       "bankroll": 773.65
+    },
+    {
+      "t": "2026-11-16T04:23:01Z",
+      "bankroll": 758.18
     }
   ],
   "consensus": {
-    "401873062": {
-      "h": 0.29850746268656714,
-      "a": 0.7435897435897436
-    },
-    "401873061": {
-      "h": 0.2222222222222222,
-      "a": 0.8198198198198198
-    },
-    "401873063": {
-      "h": 0.2578870900788709,
-      "a": 0.7925322254181315
-    },
     "401873064": {
-      "h": 0.6575342465753424,
-      "a": 0.38461538461538464
+      "h": 0.6923076923076923,
+      "a": 0.3508771929824561
     },
     "401873065": {
       "h": 0.6923076923076923,
       "a": 0.3508771929824561
     },
-    "401909986": {
-      "h": 0.2674199623352166,
-      "a": 0.7750957854406131
-    },
-    "401909987": {
-      "h": 0.5920707732634338,
-      "a": 0.4627659574468085
-    },
-    "401909988": {
-      "h": 0.19662447257383966,
-      "a": 0.8534604519774012
-    },
-    "401909989": {
-      "h": 0.9065420560747663,
-      "a": 0.13513513513513514
-    },
-    "401909990": {
-      "h": 0.41158536585365857,
-      "a": 0.6414112203585888
-    },
-    "401909991": {
-      "h": 0.27624309392265195,
-      "a": 0.7652582159624414
-    },
-    "401909992": {
-      "h": 0.2770083102493075,
-      "a": 0.7641509433962265
-    },
     "401909993": {
-      "h": 0.21691973969631237,
-      "a": 0.823943661971831
-    },
-    "401892721": {
-      "h": 0.44642857142857145,
-      "a": 0.5967741935483871
-    },
-    "401892722": {
-      "h": 0.5652173913043478,
-      "a": 0.47619047619047616
-    },
-    "401892723": {
-      "h": 0.6078431372549019,
-      "a": 0.43478260869565216
+      "h": 0.17921146953405018,
+      "a": 0.8611111111111112
     },
     "401892724": {
-      "h": 0.803921568627451,
-      "a": 0.23809523809523808
+      "h": 0.8148148148148148,
+      "a": 0.22727272727272727
     },
     "401892725": {
-      "h": 0.4132231404958678,
-      "a": 0.6296296296296297
+      "h": 0.7056135662559179,
+      "a": 0.3287037037037037
     },
     "401879233": {
       "h": 0.7142857142857143,
@@ -5330,5 +5309,5 @@
       "a": 0.6296296296296297
     }
   },
-  "updated_at": "2026-11-15T23:41:53Z"
+  "updated_at": "2026-11-16T04:23:01Z"
 }
