@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 743.02,
+  "bankroll": 799.11,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -20,24 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401892727:away:20261117T045837Z",
-      "placed_at": "2026-11-17T04:58:21Z",
-      "event_id": "401892727",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "VAN @ UTA",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "VAN",
-      "line": null,
-      "odds_american": "+270",
-      "odds_decimal": 3.7,
-      "stake": 15.16,
-      "book": "Draft Kings",
-      "fair_prob": 0.4598,
-      "edge": 0.1895
     }
   ],
   "settled": [
@@ -4492,6 +4474,27 @@
       "graded_at": "2026-11-16T13:00:58Z",
       "final_score": "NSH 2 @ SJ 4",
       "profit": -15.47
+    },
+    {
+      "id": "401892727:away:20261117T045837Z",
+      "placed_at": "2026-11-17T04:58:21Z",
+      "event_id": "401892727",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "VAN @ UTA",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "VAN",
+      "line": null,
+      "odds_american": "+270",
+      "odds_decimal": 3.7,
+      "stake": 15.16,
+      "book": "Draft Kings",
+      "fair_prob": 0.4598,
+      "edge": 0.1895,
+      "graded_at": "2026-11-17T14:10:58Z",
+      "final_score": "VAN 3 @ UTA 2",
+      "profit": 40.93
     }
   ],
   "equity": [
@@ -5290,13 +5293,13 @@
     {
       "t": "2026-11-17T04:58:37Z",
       "bankroll": 743.02
+    },
+    {
+      "t": "2026-11-17T14:10:59Z",
+      "bankroll": 799.11
     }
   ],
   "consensus": {
-    "401892727": {
-      "h": 0.5681818181818181,
-      "a": 0.48361998361998365
-    },
     "401879233": {
       "h": 0.7142857142857143,
       "a": 0.14285714285714285
@@ -5307,7 +5310,7 @@
     },
     "401878756": {
       "h": 0.5555555555555556,
-      "a": 0.23255813953488372
+      "a": 0.23809523809523808
     },
     "401879236": {
       "h": 0.5348837209302325,
@@ -5322,9 +5325,9 @@
       "a": 0.18181818181818182
     },
     "401879232": {
-      "h": 0.19047619047619047,
-      "a": 0.6296296296296297
+      "h": 0.18181818181818182,
+      "a": 0.6363636363636364
     }
   },
-  "updated_at": "2026-11-17T04:58:37Z"
+  "updated_at": "2026-11-17T14:10:59Z"
 }
