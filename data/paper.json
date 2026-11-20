@@ -1,7 +1,7 @@
 {
   "bankroll_start": 1000.0,
   "fake": true,
-  "bankroll": 697.13,
+  "bankroll": 808.63,
   "open": [
     {
       "id": "401898717:away:20261009T041003Z",
@@ -20,132 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401910019:away:20261120T013604Z",
-      "placed_at": "2026-11-20T01:35:52Z",
-      "event_id": "401910019",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "GS @ MEM",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "GS",
-      "line": null,
-      "odds_american": "+290",
-      "odds_decimal": 3.9,
-      "stake": 16.06,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.2982,
-      "edge": 0.0418
-    },
-    {
-      "id": "401910020:home:20261120T013604Z",
-      "placed_at": "2026-11-20T01:35:52Z",
-      "event_id": "401910020",
-      "league": "nba",
-      "league_label": "NBA",
-      "matchup": "POR @ MIL",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "MIL",
-      "line": null,
-      "odds_american": "+301",
-      "odds_decimal": 4.01,
-      "stake": 15.74,
-      "book": "DraftKings",
-      "fair_prob": 0.2946,
-      "edge": 0.0452
-    },
-    {
-      "id": "401892743:away:20261120T013604Z",
-      "placed_at": "2026-11-20T01:35:52Z",
-      "event_id": "401892743",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "PHI @ OTT",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "PHI",
-      "line": null,
-      "odds_american": "+270",
-      "odds_decimal": 3.7,
-      "stake": 15.42,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.3408,
-      "edge": 0.0705
-    },
-    {
-      "id": "401892745:home:20261120T013604Z",
-      "placed_at": "2026-11-20T01:35:52Z",
-      "event_id": "401892745",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "STL @ PIT",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "PIT",
-      "line": null,
-      "odds_american": "+230",
-      "odds_decimal": 3.3,
-      "stake": 15.12,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.3898,
-      "edge": 0.0867
-    },
-    {
-      "id": "401892746:home:20261120T013604Z",
-      "placed_at": "2026-11-20T01:35:52Z",
-      "event_id": "401892746",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "BUF @ WSH",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "WSH",
-      "line": null,
-      "odds_american": "+850",
-      "odds_decimal": 9.5,
-      "stake": 14.81,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.3307,
-      "edge": 0.2255
-    },
-    {
-      "id": "401892747:away:20261120T013604Z",
-      "placed_at": "2026-11-20T01:35:52Z",
-      "event_id": "401892747",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "MTL @ CAR",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "MTL",
-      "line": null,
-      "odds_american": "+275",
-      "odds_decimal": 3.75,
-      "stake": 14.52,
-      "book": "DraftKings",
-      "fair_prob": 0.2998,
-      "edge": 0.0331
-    },
-    {
-      "id": "401892748:home:20261120T013604Z",
-      "placed_at": "2026-11-20T01:35:52Z",
-      "event_id": "401892748",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "CBJ @ CHI",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "CHI",
-      "line": null,
-      "odds_american": "+220",
-      "odds_decimal": 3.2,
-      "stake": 14.23,
-      "book": "DraftKings - Live Odds",
-      "fair_prob": 0.35,
-      "edge": 0.0375
     }
   ],
   "settled": [
@@ -4726,6 +4600,153 @@
       "graded_at": "2026-11-19T11:00:59Z",
       "final_score": "BOS 4 @ DET 1",
       "profit": -15.37
+    },
+    {
+      "id": "401910019:away:20261120T013604Z",
+      "placed_at": "2026-11-20T01:35:52Z",
+      "event_id": "401910019",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "GS @ MEM",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "GS",
+      "line": null,
+      "odds_american": "+290",
+      "odds_decimal": 3.9,
+      "stake": 16.06,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.2982,
+      "edge": 0.0418,
+      "graded_at": "2026-11-20T09:33:17Z",
+      "final_score": "GS 98 @ MEM 126",
+      "profit": -16.06
+    },
+    {
+      "id": "401910020:home:20261120T013604Z",
+      "placed_at": "2026-11-20T01:35:52Z",
+      "event_id": "401910020",
+      "league": "nba",
+      "league_label": "NBA",
+      "matchup": "POR @ MIL",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "MIL",
+      "line": null,
+      "odds_american": "+301",
+      "odds_decimal": 4.01,
+      "stake": 15.74,
+      "book": "DraftKings",
+      "fair_prob": 0.2946,
+      "edge": 0.0452,
+      "graded_at": "2026-11-20T09:33:17Z",
+      "final_score": "POR 124 @ MIL 114",
+      "profit": -15.74
+    },
+    {
+      "id": "401892743:away:20261120T013604Z",
+      "placed_at": "2026-11-20T01:35:52Z",
+      "event_id": "401892743",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "PHI @ OTT",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "PHI",
+      "line": null,
+      "odds_american": "+270",
+      "odds_decimal": 3.7,
+      "stake": 15.42,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.3408,
+      "edge": 0.0705,
+      "graded_at": "2026-11-20T09:33:17Z",
+      "final_score": "PHI 6 @ OTT 5",
+      "profit": 41.63
+    },
+    {
+      "id": "401892745:home:20261120T013604Z",
+      "placed_at": "2026-11-20T01:35:52Z",
+      "event_id": "401892745",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "STL @ PIT",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "PIT",
+      "line": null,
+      "odds_american": "+230",
+      "odds_decimal": 3.3,
+      "stake": 15.12,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.3898,
+      "edge": 0.0867,
+      "graded_at": "2026-11-20T09:33:17Z",
+      "final_score": "STL 5 @ PIT 2",
+      "profit": -15.12
+    },
+    {
+      "id": "401892746:home:20261120T013604Z",
+      "placed_at": "2026-11-20T01:35:52Z",
+      "event_id": "401892746",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "BUF @ WSH",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "WSH",
+      "line": null,
+      "odds_american": "+850",
+      "odds_decimal": 9.5,
+      "stake": 14.81,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.3307,
+      "edge": 0.2255,
+      "graded_at": "2026-11-20T09:33:17Z",
+      "final_score": "BUF 6 @ WSH 3",
+      "profit": -14.81
+    },
+    {
+      "id": "401892747:away:20261120T013604Z",
+      "placed_at": "2026-11-20T01:35:52Z",
+      "event_id": "401892747",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "MTL @ CAR",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "MTL",
+      "line": null,
+      "odds_american": "+275",
+      "odds_decimal": 3.75,
+      "stake": 14.52,
+      "book": "DraftKings",
+      "fair_prob": 0.2998,
+      "edge": 0.0331,
+      "graded_at": "2026-11-20T09:33:17Z",
+      "final_score": "MTL 2 @ CAR 1",
+      "profit": 39.93
+    },
+    {
+      "id": "401892748:home:20261120T013604Z",
+      "placed_at": "2026-11-20T01:35:52Z",
+      "event_id": "401892748",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "CBJ @ CHI",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "CHI",
+      "line": null,
+      "odds_american": "+220",
+      "odds_decimal": 3.2,
+      "stake": 14.23,
+      "book": "DraftKings - Live Odds",
+      "fair_prob": 0.35,
+      "edge": 0.0375,
+      "graded_at": "2026-11-20T09:33:17Z",
+      "final_score": "CBJ 4 @ CHI 2",
+      "profit": -14.23
     }
   ],
   "equity": [
@@ -5560,24 +5581,24 @@
     {
       "t": "2026-11-20T01:36:04Z",
       "bankroll": 697.13
+    },
+    {
+      "t": "2026-11-20T09:33:19Z",
+      "bankroll": 808.63
     }
   ],
   "consensus": {
-    "401873066": {
-      "h": 0.8745098039215686,
-      "a": 0.1768955526941363
-    },
     "401873070": {
-      "h": 0.935064935064935,
-      "a": 0.10526315789473684
+      "h": 0.9425287356321839,
+      "a": 0.09803921568627451
     },
     "401873071": {
-      "h": 0.8571428571428571,
-      "a": 0.18281535648994515
+      "h": 0.8559077809798271,
+      "a": 0.18450184501845018
     },
     "401873073": {
-      "h": 0.7946611909650924,
-      "a": 0.2457002457002457
+      "h": 0.7899159663865546,
+      "a": 0.2506265664160401
     },
     "401873072": {
       "h": 0.7206703910614525,
@@ -5588,96 +5609,32 @@
       "a": 0.10638297872340426
     },
     "401873076": {
-      "h": 0.36900369003690037,
-      "a": 0.6721311475409836
+      "h": 0.37037037037037035,
+      "a": 0.66996699669967
     },
     "401873068": {
       "h": 0.5934959349593496,
       "a": 0.4484304932735426
     },
     "401873074": {
-      "h": 0.6296296296296297,
-      "a": 0.411522633744856
+      "h": 0.6254681647940075,
+      "a": 0.4166666666666667
     },
     "401873075": {
       "h": 0.8611111111111112,
       "a": 0.18018018018018017
     },
     "401873069": {
-      "h": 0.3184713375796178,
-      "a": 0.7214484679665738
+      "h": 0.3215434083601286,
+      "a": 0.7191011235955056
     },
     "401873077": {
-      "h": 0.635036496350365,
-      "a": 0.4048582995951417
+      "h": 0.6323529411764706,
+      "a": 0.40816326530612246
     },
     "401873078": {
       "h": 0.30120481927710846,
-      "a": 0.7395833333333334
-    },
-    "401910019": {
-      "h": 0.7360655737704918,
-      "a": 0.3127069732235784
-    },
-    "401910020": {
-      "h": 0.3098734644869308,
-      "a": 0.7419871794871795
-    },
-    "401910021": {
-      "h": 0.5109995217599235,
-      "a": 0.5430359937402192
-    },
-    "401910022": {
-      "h": 0.9136904761904762,
-      "a": 0.1324561403508772
-    },
-    "401892742": {
-      "h": 0.5652173913043478,
-      "a": 0.47619047619047616
-    },
-    "401892743": {
-      "h": 0.6931239388794568,
-      "a": 0.3583494208494209
-    },
-    "401892745": {
-      "h": 0.4111305361305362,
-      "a": 0.643669015685383
-    },
-    "401892746": {
-      "h": 0.34602000869943456,
-      "a": 0.7002457002457002
-    },
-    "401892747": {
-      "h": 0.7361252979230508,
-      "a": 0.3151515151515152
-    },
-    "401892749": {
-      "h": 0.5412844036697247,
-      "a": 0.504950495049505
-    },
-    "401892744": {
-      "h": 0.57599712540424,
-      "a": 0.4772727272727273
-    },
-    "401892748": {
-      "h": 0.368114406779661,
-      "a": 0.6835321646399939
-    },
-    "401892750": {
-      "h": 0.29166666666666663,
-      "a": 0.7598343685300207
-    },
-    "401892751": {
-      "h": 0.5867768595041323,
-      "a": 0.45454545454545453
-    },
-    "401892752": {
-      "h": 0.6296296296296297,
-      "a": 0.4132231404958678
-    },
-    "401892753": {
-      "h": 0.5555555555555556,
-      "a": 0.4878048780487805
+      "a": 0.7389033942558747
     },
     "401879233": {
       "h": 0.7222222222222222,
@@ -5688,8 +5645,8 @@
       "a": 0.2564102564102564
     },
     "401878756": {
-      "h": 0.5555555555555556,
-      "a": 0.22727272727272727
+      "h": 0.5652173913043478,
+      "a": 0.2222222222222222
     },
     "401879236": {
       "h": 0.5238095238095238,
@@ -5708,5 +5665,5 @@
       "a": 0.6363636363636364
     }
   },
-  "updated_at": "2026-11-20T01:36:04Z"
+  "updated_at": "2026-11-20T09:33:19Z"
 }
