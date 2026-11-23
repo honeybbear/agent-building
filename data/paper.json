@@ -20,60 +20,6 @@
       "book": "DraftKings - Live Odds",
       "fair_prob": 0.1915,
       "edge": 0.0434
-    },
-    {
-      "id": "401873077:away:20261123T025632Z",
-      "placed_at": "2026-11-23T02:56:19Z",
-      "event_id": "401873077",
-      "league": "nfl",
-      "league_label": "NFL",
-      "matchup": "MIN VS SF",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "MIN",
-      "line": null,
-      "odds_american": "+1580",
-      "odds_decimal": 16.8,
-      "stake": 16.6,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.2084,
-      "edge": 0.1488
-    },
-    {
-      "id": "401892770:away:20261123T025632Z",
-      "placed_at": "2026-11-23T02:56:19Z",
-      "event_id": "401892770",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "EDM @ STL",
-      "market": "moneyline",
-      "side": "away",
-      "side_abbr": "EDM",
-      "line": null,
-      "odds_american": "+105",
-      "odds_decimal": 2.05,
-      "stake": 16.27,
-      "book": "Draft Kings",
-      "fair_prob": 0.5289,
-      "edge": 0.0411
-    },
-    {
-      "id": "401892772:home:20261123T025632Z",
-      "placed_at": "2026-11-23T02:56:19Z",
-      "event_id": "401892772",
-      "league": "nhl",
-      "league_label": "NHL",
-      "matchup": "CHI @ VAN",
-      "market": "moneyline",
-      "side": "home",
-      "side_abbr": "VAN",
-      "line": null,
-      "odds_american": "+650",
-      "odds_decimal": 7.5,
-      "stake": 15.94,
-      "book": "Draft Kings - Live Odds",
-      "fair_prob": 0.3073,
-      "edge": 0.174
     }
   ],
   "settled": [
@@ -5011,6 +4957,69 @@
       "graded_at": "2026-11-23T02:56:30Z",
       "final_score": "DET 97 @ ATL 107",
       "profit": 29.44
+    },
+    {
+      "id": "401873077:away:20261123T025632Z",
+      "placed_at": "2026-11-23T02:56:19Z",
+      "event_id": "401873077",
+      "league": "nfl",
+      "league_label": "NFL",
+      "matchup": "MIN VS SF",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "MIN",
+      "line": null,
+      "odds_american": "+1580",
+      "odds_decimal": 16.8,
+      "stake": 16.6,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.2084,
+      "edge": 0.1488,
+      "graded_at": "2026-11-23T11:48:06Z",
+      "final_score": "MIN 10 @ SF 35",
+      "profit": -16.6
+    },
+    {
+      "id": "401892770:away:20261123T025632Z",
+      "placed_at": "2026-11-23T02:56:19Z",
+      "event_id": "401892770",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "EDM @ STL",
+      "market": "moneyline",
+      "side": "away",
+      "side_abbr": "EDM",
+      "line": null,
+      "odds_american": "+105",
+      "odds_decimal": 2.05,
+      "stake": 16.27,
+      "book": "Draft Kings",
+      "fair_prob": 0.5289,
+      "edge": 0.0411,
+      "graded_at": "2026-11-23T11:48:06Z",
+      "final_score": "EDM 4 @ STL 5",
+      "profit": -16.27
+    },
+    {
+      "id": "401892772:home:20261123T025632Z",
+      "placed_at": "2026-11-23T02:56:19Z",
+      "event_id": "401892772",
+      "league": "nhl",
+      "league_label": "NHL",
+      "matchup": "CHI @ VAN",
+      "market": "moneyline",
+      "side": "home",
+      "side_abbr": "VAN",
+      "line": null,
+      "odds_american": "+650",
+      "odds_decimal": 7.5,
+      "stake": 15.94,
+      "book": "Draft Kings - Live Odds",
+      "fair_prob": 0.3073,
+      "edge": 0.174,
+      "graded_at": "2026-11-23T11:48:06Z",
+      "final_score": "CHI 6 @ VAN 3",
+      "profit": -15.94
     }
   ],
   "equity": [
@@ -5889,33 +5898,21 @@
     {
       "t": "2026-11-23T02:56:32Z",
       "bankroll": 781.05
+    },
+    {
+      "t": "2026-11-23T11:48:07Z",
+      "bankroll": 781.05
     }
   ],
   "consensus": {
-    "401873077": {
-      "h": 0.8272642700511662,
-      "a": 0.21773182957393483
-    },
     "401873078": {
-      "h": 0.29411764705882354,
-      "a": 0.7468354430379747
+      "h": 0.28901734104046245,
+      "a": 0.7512437810945274
     },
-    "401910034": {
-      "h": 0.735352977710303,
-      "a": 0.31597774244833066
-    },
-    "401910035": {
-      "h": 0.27212143650499815,
-      "a": 0.778938122194027
-    },
-    "401892770": {
-      "h": 0.49516908212560384,
-      "a": 0.5559325142123601
-    },
-    "401892772": {
-      "h": 0.3227642276422764,
-      "a": 0.7274418604651163
+    "401879237": {
+      "h": 0.4444444444444444,
+      "a": 0.31746031746031744
     }
   },
-  "updated_at": "2026-11-23T02:56:32Z"
+  "updated_at": "2026-11-23T11:48:07Z"
 }
